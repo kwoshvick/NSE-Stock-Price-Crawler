@@ -1,3 +1,4 @@
+import csv
 import urllib.request as rq
 from bs4 import BeautifulSoup
 
@@ -35,13 +36,30 @@ for row in table.findAll("tr"):
         #name
         shareDetails.append(shareElements[1])
         #lowest price
-        shareDetails.append(shareElements[5])
+        if shareElements[5] == None:
+            shareDetails.append(shareElements[5])
+        else:
+            shareDetails.append(float(shareElements[5].replace(',', '')))
         #highest price
-        shareDetails.append(shareElements[6])
+        if shareElements[6] == None:
+            shareDetails.append(shareElements[6])
+        else:
+            shareDetails.append(float(shareElements[6].replace(',', '')))
         #price
-        shareDetails.append(shareElements[7])
+        if shareElements[7] == None:
+            shareDetails.append(shareElements[7])
+        else:
+            shareDetails.append(float(shareElements[7].replace(',', '')))
         #volume
-        shareDetails.append(shareElements[12])
+        if (shareElements[12] == None) or (shareElements[12] == '-'):
+            shareDetails.append(shareElements[12])
+        else:
+            shareDetails.append(str(shareElements[12].replace(',', '')))
         dailyShares.append(shareDetails)
 
-print(dailyShares)
+
+myFile = open('./data/shares.csv','w')
+writeFile = csv.writer(myFile, delimiter=';')
+writeFile.writerows(dailyShares)
+myFile.close()
+
