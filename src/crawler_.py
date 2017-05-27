@@ -1,3 +1,4 @@
+import os
 import csv
 import urllib.request as rq
 from bs4 import BeautifulSoup
@@ -11,21 +12,17 @@ class Crawler:
         '''
         self.dailyShares = list()
 
-    def getURLData(self):
-
+    def getURLData(self,date):
+        self.date = str(date)
+        self.createFolder('data/year/'+self.date[0:4])
+        url = "https://live.mystocks.co.ke/price_list/" + self.date
         try:
-            url = "https://live.mystocks.co.ke/price_list/20170519"
+            html = rq.urlopen(url).read()
         except ValueError:
             print("no date")
         finally:
-            html = rq.urlopen(url).read()
             self.soup = BeautifulSoup(html, "lxml")
             self.extractURLData()
-
-
-
-
-
 
     def extractURLData(self):
         table = self.soup.find("table", {"class": "tblHoverHi"})
@@ -71,8 +68,19 @@ class Crawler:
                 self.dailyShares.append(shareDetails)
         self.saveCSV()
 
+    def createFolder(self,path):
+        folder = os.path.isdir(path)
+        if folder is False:
+            os.mkdir(path)
+
     def saveCSV(self):
-        myFile = open('./data/shares.csv', 'w')
+        year = self.date[0:4]
+        month = self.date[4:6]
+        path = 'data/year/'+str(year)+'/'+month+'/'
+        folder = os.path.isdir(path)
+        if folder == False:
+            os.mkdir(path)
+        myFile = open(path+str(self.date)+'.csv', 'w')
         writeFile = csv.writer(myFile, delimiter=';')
         writeFile.writerows(self.dailyShares)
         myFile.close()
