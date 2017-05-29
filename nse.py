@@ -3,13 +3,13 @@ from src import *
 crawl = Crawler()
 cal = Calender()
 
-year = 2006
-finalYear = 2006
+year = 2017
+finalYear = 2017
 totalMonths = 12
-startMonth = 12
+startMonth = 1
 
 while year < (finalYear+1):
-    while startMonth < 13:
+    while startMonth < 2:
         y = cal.getDayInMonth(year, startMonth)
         for i in y:
             crawl.getURLData(int(i))
