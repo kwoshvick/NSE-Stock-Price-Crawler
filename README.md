@@ -3,7 +3,9 @@
 
 This is a web crawler for Nairobi Stock Exchange **(NSE)** Share prices since its digitization on 11 th September 2006.
 The data crawled can be found in the `data` folder.
+
 **Data Format in the csv's**
+
 * *Daily csv Format*
     * Each csv contains daily prices for all the companies for that day.
     *  Code | Name | Lowest Price of the day | Highest Price of the day | Closing Price | Volume Traded
