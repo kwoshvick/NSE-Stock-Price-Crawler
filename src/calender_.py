@@ -2,11 +2,12 @@ import calendar
 import datetime
 from dateutil.easter import *
 
-
 class Calender:
     def __init__(self):
         calendar.setfirstweekday(calendar.MONDAY)
         self.calendar = calendar.Calendar()
+        # add one day
+        self._1daymore = datetime.timedelta(days=+1)
         # New Year's Day 1st January
         # Labour Day 1st May
         # Madaraka Day* 1st June
@@ -40,22 +41,18 @@ class Calender:
         else:
             return False
 
-    #removes a monday from the list if the holiday is on a Sunday
+    # removes a monday from the list if the holiday is on a Sunday
     def isHolidayOnSunday(self,day):
         date = datetime.datetime.strptime(str(day), '%Y%m%d').strftime('%Y-%m-%d')
         splitDate = date.split('-')
         whichDay = calendar.weekday(int(splitDate[0]), int(splitDate[1]), int(splitDate[2]))
-        if whichDay == 6: #if Sunday
-            #if the day is a single digit i.e 1,2,3, add new date then fill with a leading zero
-            if(len(str(int(splitDate[2]))) == 1):
-                newHoliday = int(splitDate[2]) + 1
-                newHoliday = str(newHoliday).zfill(2)
-            # if the day is a double digit i.e 12,21,30 , add new date only
-            else:
-                newHoliday = int(splitDate[2]) + 1
-            holidayDate = splitDate[0]+self._strMonth+str(newHoliday)
-            return holidayDate
-        return day
+        if whichDay == 6: # if Sunday
+            newdate = datetime.datetime.strptime(date, '%Y-%m-%d').date()
+            newHoliday= newdate + self._1daymore
+            newHolidayDate = datetime.datetime.strptime(str(newHoliday), '%Y-%m-%d').strftime('%Y%m%d')
+            return newHolidayDate
+        else:
+            return day
 
     # removes the holidays from the days of the month
     def holiday(self,monthDays):
@@ -68,22 +65,15 @@ class Calender:
                 if newDay in monthDays: monthDays.remove(newDay)
         # remove easter
         easterSunday = easter(self.year)
+        # go back two days
         _2daysLess = datetime.timedelta(days=-2)
-        _1daymore = datetime.timedelta(days=+1)
         goodFriday = easterSunday + _2daysLess
-        easterMonday = easterSunday + _1daymore
+        easterMonday = easterSunday + self._1daymore
         easterDays.append(datetime.datetime.strptime(str(goodFriday),'%Y-%m-%d' ).strftime('%Y%m%d'))
         easterDays.append(datetime.datetime.strptime(str(easterMonday),'%Y-%m-%d' ).strftime('%Y%m%d'))
         for easterDay in easterDays:
             if easterDay in monthDays: monthDays.remove(easterDay)
-
         return monthDays
-
-        #Idd – ul - Fitr
-        # Eid al Adha --- as of sep 2016
-
-
-
 
 
 
