@@ -20,4 +20,13 @@ All daily data put in a single csv for that month ordered by company code name.
 * `Yearly` folder
 All monthly data put in a single csv for that year.
 
-All errors *404* errors for pages not found can be foumd in the `errorlog` folder in the **error.log**
+All errors *404* errors for pages not found can be found in the `errorlog` folder in the **error.log**
+
+**NB** Unable to remove the following holidays as of now because they are dynamic
+ - Eid al Adha (was gazetted in Kenya as of September 2016)
+ 
+ - Eid Fitr 
+ 
+# Contribution 
+
+If you have any additions fork this project repo, make changes on your clone and make a Pull Request. 
