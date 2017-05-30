@@ -1,5 +1,7 @@
 import calendar
 import datetime
+from dateutil.easter import *
+
 
 class Calender:
     def __init__(self):
@@ -57,16 +59,26 @@ class Calender:
 
     # removes the holidays from the days of the month
     def holiday(self,monthDays):
+        easterDays = list()
         if self.month in self.publicHolidays.keys():
             days = self.publicHolidays.__getitem__(self.month)
             for day in days:
                 newDate = str(self.year) + str(self.month) + day
                 newDay = self.isHolidayOnSunday(newDate)
                 if newDay in monthDays: monthDays.remove(newDay)
+        # remove easter
+        easterSunday = easter(self.year)
+        _2daysLess = datetime.timedelta(days=-2)
+        _1daymore = datetime.timedelta(days=+1)
+        goodFriday = easterSunday + _2daysLess
+        easterMonday = easterSunday + _1daymore
+        easterDays.append(datetime.datetime.strptime(str(goodFriday),'%Y-%m-%d' ).strftime('%Y%m%d'))
+        easterDays.append(datetime.datetime.strptime(str(easterMonday),'%Y-%m-%d' ).strftime('%Y%m%d'))
+        for easterDay in easterDays:
+            if easterDay in monthDays: monthDays.remove(easterDay)
+
         return monthDays
 
-        #Good Friday
-        #Easter Monday
         #Idd – ul - Fitr
         # Eid al Adha --- as of sep 2016
 
