@@ -7,11 +7,10 @@ The data crawled can be found in the `data` folder.
 **Setup**
 
 - Install python3 and pip3 installed
-- ```sh
+ ```sh
    pip3 install -r requirements.txt
   ``` 
-  To install the python3 dependencies.
-
+  - To install the python3 dependencies.
 
 
 **Data Format in the csv's**
