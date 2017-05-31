@@ -4,6 +4,16 @@
 This is a web crawler for Nairobi Stock Exchange **(NSE)** Share prices since its digitization on 11 th September 2006.
 The data crawled can be found in the `data` folder.
 
+**Setup**
+
+- Install python3 and pip3 installed
+- ```sh
+   pip3 install -r requirements.txt
+  ``` 
+  To install the python3 dependencies.
+
+
+
 **Data Format in the csv's**
 
 * *Daily csv Format*
