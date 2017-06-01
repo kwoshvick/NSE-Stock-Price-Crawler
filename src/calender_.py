@@ -31,7 +31,9 @@ class Calender:
                     self._strMonth = newDate[4:6]
 
         tradingDays = self.holiday(weekdays)
-        return tradingDays
+        print(tradingDays)
+        exit()
+        #return tradingDays
 
     # removes the weekends from the days of the month
     def isWeekday(self,date):
@@ -73,6 +75,7 @@ class Calender:
         easterDays.append(datetime.datetime.strptime(str(easterMonday),'%Y-%m-%d' ).strftime('%Y%m%d'))
         for easterDay in easterDays:
             if easterDay in monthDays: monthDays.remove(easterDay)
+
         return monthDays
 
 
