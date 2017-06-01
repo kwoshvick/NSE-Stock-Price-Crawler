@@ -1,20 +1,27 @@
 from src import *
 
-crawl = Crawler()
-cal = Calender()
+crawler = Crawler()
+calender = Calender()
 
-year = 2010
-finalYear = 2010
-totalMonths = 12
-startMonth = 12
+# start year
+startYear = 2006
+# start month
+startMonth = 9
+# end year
+endYear = 2007
+# end month
+endMonth = 5
 
-while year < (finalYear+1):
+
+while startYear < (endYear+1):
     while startMonth < 13:
-        y = cal.getDayInMonth(year, startMonth)
-        for i in y:
-            crawl.getURLData(int(i))
+        month = calender.getDayInMonth(startYear, startMonth)
+        for day in month:
+            crawler.getURLData(int(day))
+        if startMonth == endMonth and startYear == endYear:
+            break
         startMonth += 1
     startMonth = 1
-    year += 1
+    startYear += 1
 
 
