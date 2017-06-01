@@ -31,9 +31,7 @@ class Calender:
                     self._strMonth = newDate[4:6]
 
         tradingDays = self.holiday(weekdays)
-        print(tradingDays)
-        exit()
-        #return tradingDays
+        return tradingDays
 
     # removes the weekends from the days of the month
     def isWeekday(self,date):
@@ -45,7 +43,9 @@ class Calender:
 
     # removes a monday from the list if the holiday is on a Sunday
     def isHolidayOnSunday(self,day):
+        print(day)
         date = datetime.datetime.strptime(str(day), '%Y%m%d').strftime('%Y-%m-%d')
+        print(date)
         splitDate = date.split('-')
         whichDay = calendar.weekday(int(splitDate[0]), int(splitDate[1]), int(splitDate[2]))
         if whichDay == 6: # if Sunday
@@ -62,7 +62,8 @@ class Calender:
         if self.month in self.publicHolidays.keys():
             days = self.publicHolidays.__getitem__(self.month)
             for day in days:
-                newDate = str(self.year) + str(self.month) + day
+                print(self._strMonth)
+                newDate = str(self.year) + str(self._strMonth) + day
                 newDay = self.isHolidayOnSunday(newDate)
                 if newDay in monthDays: monthDays.remove(newDay)
         # remove easter
@@ -75,7 +76,6 @@ class Calender:
         easterDays.append(datetime.datetime.strptime(str(easterMonday),'%Y-%m-%d' ).strftime('%Y%m%d'))
         for easterDay in easterDays:
             if easterDay in monthDays: monthDays.remove(easterDay)
-
         return monthDays
 
 
