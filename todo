@@ -1,5 +1,19 @@
+TODO
+- import one csv
+- format the data such that each row is a tuple/list
+- create a csv name using the company code name from the list
+- if name exits append the list/tuple
+  else if not create a new csv with the company name then append the list/tuple
+- Load all the csv in a directory
+- continue the append process
+- test
+
+Duration (2 weeks -- Deadline : 17/06/2017)
+
+
+
 Update Readme (http://dillinger.io/)
-    installation of modules from requirements.txt
+
 
 
 
