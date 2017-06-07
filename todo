@@ -1,11 +1,9 @@
 TODO
 - import class implementation for data formatter
-- class should take two parameters input path and output path
-- should have a method that takes the start period and end period
-- save csv
 - create new folders if it does exist for year and mont
-- fetch csv from various year and month folder
 - test
+- write the usage
+- get actual data
 
 
 Duration (2 weeks -- Deadline : 17/06/2017)
