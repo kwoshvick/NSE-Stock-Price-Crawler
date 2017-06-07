@@ -76,7 +76,7 @@ class Crawler:
                 self.dailyShares.append(shareDetails)
         self.saveCSV()
 
-    # creates a folder for either the yeear or month if it doesnt exist
+    # creates a folder for either the year or month if it doesnt exist
     def createFolder(self,path):
         folder = os.path.isdir(path)
         if folder is False:
