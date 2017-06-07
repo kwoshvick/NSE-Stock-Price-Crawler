@@ -1,8 +1,12 @@
 TODO
-
-- Load all the csv in a directory
-- continue the append process
+- import class implementation for data formatter
+- class should take two parameters input path and output path
+- should have a method that takes the start period and end period
+- save csv
+- create new folders if it does exist for year and mont
+- fetch csv from various year and month folder
 - test
+
 
 Duration (2 weeks -- Deadline : 17/06/2017)
 

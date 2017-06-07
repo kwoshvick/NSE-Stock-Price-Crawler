@@ -1,5 +1,6 @@
 import os
 import csv
+from src import *
 
 mypath = 'data/monthly/12/'
 monthlyOutputPath = 'data/monthly/'
