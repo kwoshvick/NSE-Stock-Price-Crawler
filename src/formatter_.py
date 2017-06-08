@@ -10,12 +10,14 @@ class FormatData:
         self.crawler = Crawler()
         self.getData()
 
+    # returns the years in the folder
     def getYears(self):
         for years in os.listdir(self.inputpath):
             self.yearsFolder.append(years)
         sortedYearsFolder = sorted(self.yearsFolder)
         return sortedYearsFolder
 
+    # returns the months in the folder
     def getMonths(self,path):
         monthsFolder = list()
         for months in os.listdir(path):
@@ -23,6 +25,7 @@ class FormatData:
         sortedMonthsFolder = sorted(monthsFolder)
         return sortedMonthsFolder
 
+    # returns the days csvs' in the folder
     def getDays(self,path):
         daysFolder = list()
         for days in os.listdir(path):
@@ -30,6 +33,7 @@ class FormatData:
         sortedDaysFolder = sorted(daysFolder)
         return sortedDaysFolder
 
+    # saves the data in the relevant csv file
     def monthlyCSV(self, dailyPath, fileName , finalPath):
         with open(dailyPath, newline='') as csvfile:
             spamreader = csv.reader(csvfile, delimiter=';', quotechar='|')
@@ -46,6 +50,7 @@ class FormatData:
                 writeFile.writerows([row])
                 file.close()
 
+    # extract data from the csv
     def getData(self):
         years = self.getYears()
         for year in years:
