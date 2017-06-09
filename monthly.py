@@ -1,8 +1,6 @@
-import os
-import csv
 from src import *
 
-inputPath = 'data/te/'
+inputPath = 'data/daily/'
 outputPath = 'data/monthly/'
 
 formatter = FormatData(inputPath, outputPath)
