@@ -1,42 +1,41 @@
-EGAD;Eaagads Ltd;50.0;51.5;51.0;110500
-KAPC;Kapchorua Tea Company Ltd;100.0;100.0;100.0;10000
-REA;Rea Vipingo Plantations Ltd;25.0;26.0;25.75;13900
-SASN;Sasini Tea and Coffee Ltd;135.0;154.0;144.0;37300
-C&G;Car and General (K) Ltd;50.0;52.0;50.0;126700
-CMC;CMC Holdings Ltd;153.0;168.0;158.0;185500
-FIRE;Sameer Africa Ltd;21.5;24.0;23.0;27600
-BBK;Barclays Bank Ltd;69.0;74.0;71.0;527400
-DTK;Diamond Trust Bank Kenya Ltd;71.0;72.0;71.0;57800
-EQTY;Equity Group Holdings Ltd;135.0;140.0;139.0;214400
-HFCK;HF Group Limited;45.0;48.0;46.0;55100
-KCB;Kenya Commercial Bank Ltd;218.0;230.0;224.0;78400
-NBK;National Bank of Kenya Ltd;57.0;60.0;59.0;35500
-NIC;NIC Bank Ltd;100.0;102.0;100.0;7200
-CFC;Stanbic Holdings Ltd;87.0;90.0;89.5;16000
-SCBK;Standard Chartered Bank Ltd;204.0;208.0;205.0;3500
-XPRS;Express Ltd;26.0;27.0;26.25;33000
-KQ;Kenya Airways Ltd;119.0;121.0;120.0;149100
-NMG;Nation Media Group;307.0;324.0;314.0;25400
-SGL;Standard Group Ltd;68.5;69.0;68.5;6500
-TPSE;TPS Eastern Africa (Serena) Ltd;86.5;89.0;87.5;5100
-SCAN;WPP ScanGroup Ltd;24.25;25.5;24.75;215200
-ARM;ARM Cement Ltd;80.0;85.0;80.5;10000
-BAMB;Bamburi Cement Ltd;210.0;210.0;210.0;1300
-BERG;Crown Berger Ltd;40.0;44.0;43.0;3400
-CABL;East African Cables Ltd;45.0;48.0;46.75;731100
-PORT;East African Portland Cement Ltd;128.0;128.0;128.0;7600
-KENO;KenolKobil Ltd;108.0;110.0;109.0;1200
-KEGN;Kenya Electricity Generating Company Ltd;28.0;31.0;28.5;815700
-KPLC;Kenya Power and Lighting Ltd;265.0;275.0;269.0;112200
-TOTL;Total Kenya Ltd;33.0;35.0;33.25;80400
-JUB;Jubilee Holdings Ltd;310.0;320.0;315.0;4300
-PAFR;Sanlam Kenya Plc;90.0;95.0;91.5;4600
-ICDC;Centum Investment Company Ltd;319.0;330.0;323.0;108100
-OCH;Olympia Capital Holdings Ltd;30.0;32.5;31.5;3200
-BAT;British American Tobacco Kenya Ltd;196.0;200.0;199.0;1400
-EABL;East African Breweries Ltd;134.0;138.0;137.0;215800
-EVRD;Eveready East Africa Ltd;17.0;19.45;18.1;652100
-MSC;Mumias Sugar Company Ltd;52.0;55.0;53.0;116000
-UNGA;Unga Group Ltd;17.2;18.0;17.25;30400
-^N20I;NSE 20-Share Index;5560.44;5560.44;5560.44;-
-;;;;;
+EGAD;Eaagads Ltd;50.0;51.5;51.0;47.25;110500
+KAPC;Kapchorua Tea Company Ltd;100.0;100.0;100.0;100.0;10000
+SASN;Sasini Tea and Coffee Ltd;135.0;154.0;144.0;138.0;37300
+C&G;Car and General (K) Ltd;50.0;52.0;50.0;50.0;126700
+CMC;CMC Holdings Ltd;153.0;168.0;158.0;154.0;185500
+FIRE;Sameer Africa Ltd;21.5;24.0;23.0;24.75;27600
+BBK;Barclays Bank Ltd;69.0;74.0;71.0;68.0;527400
+DTK;Diamond Trust Bank Kenya Ltd;71.0;72.0;71.0;70.0;57800
+EQTY;Equity Group Holdings Ltd;135.0;140.0;139.0;135.0;214400
+HFCK;HF Group Limited;45.0;48.0;46.0;44.25;55100
+KCB;Kenya Commercial Bank Ltd;218.0;230.0;224.0;219.0;78400
+NBK;National Bank of Kenya Ltd;57.0;60.0;59.0;58.5;35500
+NIC;NIC Bank Ltd;100.0;102.0;100.0;99.5;7200
+CFC;Stanbic Holdings Ltd;87.0;90.0;89.5;90.0;16000
+SCBK;Standard Chartered Bank Ltd;204.0;208.0;205.0;204.0;3500
+XPRS;Express Ltd;26.0;27.0;26.25;25.5;33000
+KQ;Kenya Airways Ltd;119.0;121.0;120.0;118.0;149100
+NMG;Nation Media Group;307.0;324.0;314.0;309.0;25400
+SGL;Standard Group Ltd;68.5;69.0;68.5;64.0;6500
+TPSE;TPS Eastern Africa (Serena) Ltd;86.5;89.0;87.5;86.0;5100
+SCAN;WPP ScanGroup Ltd;24.25;25.5;24.75;24.75;215200
+ARM;ARM Cement Ltd;80.0;85.0;80.5;80.0;10000
+BAMB;Bamburi Cement Ltd;210.0;210.0;210.0;209.0;1300
+BERG;Crown Berger Ltd;40.0;44.0;43.0;40.0;3400
+CABL;East African Cables Ltd;45.0;48.0;46.75;45.5;731100
+PORT;East African Portland Cement Ltd;128.0;128.0;128.0;128.0;7600
+KENO;KenolKobil Ltd;108.0;110.0;109.0;108.0;1200
+KEGN;Kenya Electricity Generating Company Ltd;28.0;31.0;28.5;28.5;815700
+KPLC;Kenya Power and Lighting Ltd;265.0;275.0;269.0;269.0;112200
+TOTL;Total Kenya Ltd;33.0;35.0;33.25;33.75;80400
+JUB;Jubilee Holdings Ltd;310.0;320.0;315.0;310.0;4300
+PAFR;Sanlam Kenya Plc;90.0;95.0;91.5;90.0;4600
+ICDC;Centum Investment Company Ltd;319.0;330.0;323.0;326.0;108100
+OCH;Olympia Capital Holdings Ltd;30.0;32.5;31.5;30.5;3200
+BAT;British American Tobacco Kenya Ltd;196.0;200.0;199.0;194.0;1400
+EABL;East African Breweries Ltd;134.0;138.0;137.0;135.0;215800
+EVRD;Eveready East Africa Ltd;17.0;19.45;18.1;17.4;652100
+MSC;Mumias Sugar Company Ltd;52.0;55.0;53.0;53.5;116000
+UNGA;Unga Group Ltd;17.2;18.0;17.25;17.3;30400
+^N20I;NSE 20-Share Index;5560.44;5560.44;5560.44;5522.81;-
+;;;;;;

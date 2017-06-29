@@ -1,40 +1,39 @@
-KUKZ;Kakuzi;39.0;39.0;39.0;1900
-REA;Rea Vipingo Plantations Ltd;25.75;26.75;26.0;15600
-SASN;Sasini Tea and Coffee Ltd;125.0;130.0;128.0;65800
-WTK;Williamson Tea Kenya Ltd;115.0;118.0;115.0;1000
-C&G;Car and General (K) Ltd;54.0;57.0;54.5;9600
-CMC;CMC Holdings Ltd;161.0;165.0;164.0;26000
-FIRE;Sameer Africa Ltd;24.5;28.0;25.5;173800
-BBK;Barclays Bank Ltd;575.0;600.0;587.0;78300
-DTK;Diamond Trust Bank Kenya Ltd;68.5;75.0;71.5;9800
-EQTY;Equity Group Holdings Ltd;131.0;137.0;134.0;15600
-HFCK;HF Group Limited;43.25;45.0;44.25;49700
-KCB;Kenya Commercial Bank Ltd;213.0;225.0;216.0;392200
-NBK;National Bank of Kenya Ltd;55.0;59.0;58.0;32400
-NIC;NIC Bank Ltd;96.0;105.0;104.0;39500
-CFC;Stanbic Holdings Ltd;80.0;89.5;82.0;20600
-SCBK;Standard Chartered Bank Ltd;201.0;210.0;207.0;15000
-XPRS;Express Ltd;25.5;28.0;26.0;48400
-KQ;Kenya Airways Ltd;121.0;124.0;122.0;193800
-NMG;Nation Media Group;335.0;370.0;358.0;72900
-SGL;Standard Group Ltd;59.0;60.0;59.5;1400
-TPSE;TPS Eastern Africa (Serena) Ltd;87.0;92.5;89.0;278200
-SCAN;WPP ScanGroup Ltd;22.0;24.0;22.75;220100
-ARM;ARM Cement Ltd;84.0;85.5;84.5;31000
-BAMB;Bamburi Cement Ltd;200.0;220.0;217.0;34100
-BERG;Crown Berger Ltd;39.0;42.0;41.25;40200
-CABL;East African Cables Ltd;45.0;48.0;46.5;256000
-PORT;East African Portland Cement Ltd;132.0;132.0;132.0;3100
-KENO;KenolKobil Ltd;109.0;110.0;109.0;19700
-KEGN;Kenya Electricity Generating Company Ltd;29.0;33.0;32.25;1.67M
-KPLC;Kenya Power and Lighting Ltd;260.0;285.0;283.0;120500
-TOTL;Total Kenya Ltd;33.0;34.0;33.75;19200
-JUB;Jubilee Holdings Ltd;290.0;305.0;298.0;17200
-PAFR;Sanlam Kenya Plc;90.0;90.0;90.0;100
-ICDC;Centum Investment Company Ltd;380.0;390.0;389.0;30700
-OCH;Olympia Capital Holdings Ltd;20.5;21.5;21.0;1800
-EABL;East African Breweries Ltd;142.0;145.0;144.0;51000
-MSC;Mumias Sugar Company Ltd;50.0;55.0;50.5;2.29M
-UNGA;Unga Group Ltd;18.0;18.5;18.2;9500
-^N20I;NSE 20-Share Index;5676.52;5676.52;5676.52;-
-;;;;;
+KUKZ;Kakuzi;39.0;39.0;39.0;40.0;1900
+SASN;Sasini Tea and Coffee Ltd;125.0;130.0;128.0;123.0;65800
+WTK;Williamson Tea Kenya Ltd;115.0;118.0;115.0;115.0;1000
+C&G;Car and General (K) Ltd;54.0;57.0;54.5;56.5;9600
+CMC;CMC Holdings Ltd;161.0;165.0;164.0;163.0;26000
+FIRE;Sameer Africa Ltd;24.5;28.0;25.5;26.75;173800
+BBK;Barclays Bank Ltd;575.0;600.0;587.0;595.0;78300
+DTK;Diamond Trust Bank Kenya Ltd;68.5;75.0;71.5;74.0;9800
+EQTY;Equity Group Holdings Ltd;131.0;137.0;134.0;136.0;15600
+HFCK;HF Group Limited;43.25;45.0;44.25;45.5;49700
+KCB;Kenya Commercial Bank Ltd;213.0;225.0;216.0;215.0;392200
+NBK;National Bank of Kenya Ltd;55.0;59.0;58.0;57.5;32400
+NIC;NIC Bank Ltd;96.0;105.0;104.0;99.5;39500
+CFC;Stanbic Holdings Ltd;80.0;89.5;82.0;81.5;20600
+SCBK;Standard Chartered Bank Ltd;201.0;210.0;207.0;210.0;15000
+XPRS;Express Ltd;25.5;28.0;26.0;29.0;48400
+KQ;Kenya Airways Ltd;121.0;124.0;122.0;122.0;193800
+NMG;Nation Media Group;335.0;370.0;358.0;345.0;72900
+SGL;Standard Group Ltd;59.0;60.0;59.5;56.5;1400
+TPSE;TPS Eastern Africa (Serena) Ltd;87.0;92.5;89.0;88.5;278200
+SCAN;WPP ScanGroup Ltd;22.0;24.0;22.75;22.5;220100
+ARM;ARM Cement Ltd;84.0;85.5;84.5;84.0;31000
+BAMB;Bamburi Cement Ltd;200.0;220.0;217.0;207.0;34100
+BERG;Crown Berger Ltd;39.0;42.0;41.25;40.0;40200
+CABL;East African Cables Ltd;45.0;48.0;46.5;47.75;256000
+PORT;East African Portland Cement Ltd;132.0;132.0;132.0;130.0;3100
+KENO;KenolKobil Ltd;109.0;110.0;109.0;108.0;19700
+KEGN;Kenya Electricity Generating Company Ltd;29.0;33.0;32.25;32.0;1.67M
+KPLC;Kenya Power and Lighting Ltd;260.0;285.0;283.0;282.0;120500
+TOTL;Total Kenya Ltd;33.0;34.0;33.75;34.75;19200
+JUB;Jubilee Holdings Ltd;290.0;305.0;298.0;292.0;17200
+PAFR;Sanlam Kenya Plc;90.0;90.0;90.0;85.5;100
+ICDC;Centum Investment Company Ltd;380.0;390.0;389.0;385.0;30700
+OCH;Olympia Capital Holdings Ltd;20.5;21.5;21.0;20.5;1800
+EABL;East African Breweries Ltd;142.0;145.0;144.0;145.0;51000
+MSC;Mumias Sugar Company Ltd;50.0;55.0;50.5;51.5;2.29M
+UNGA;Unga Group Ltd;18.0;18.5;18.2;17.95;9500
+^N20I;NSE 20-Share Index;5676.52;5676.52;5676.52;5665.07;-
+;;;;;;

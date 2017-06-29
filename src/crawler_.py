@@ -69,7 +69,7 @@ class Crawler:
                 else:
                     shareDetails.append(float(shareElements[7].replace(',', '')))
                 # previous day's price
-                if shareElements[8] == None:
+                if shareElements[8] == None or shareElements[8] == '-':
                     shareDetails.append(shareElements[8])
                 else:
                     shareDetails.append(float(shareElements[8].replace(',', '')))

@@ -1,59 +1,58 @@
-EGAD;Eaagads Ltd;32.5;32.5;32.5;-
-KUKZ;Kakuzi;75.0;75.0;75.0;1500
-KAPC;Kapchorua Tea Company Ltd;147.0;147.0;147.0;1600
-LIMT;Limuru Tea Company Ltd;460.0;460.0;460.0;200
-REA;Rea Vipingo Plantations Ltd;16.1;16.1;16.1;7700
-SASN;Sasini Tea and Coffee Ltd;12.35;12.7;12.35;13400
-WTK;Williamson Tea Kenya Ltd;278.0;278.0;278.0;2000
-C&G;Car and General (K) Ltd;28.0;28.0;28.0;200
-CMC;CMC Holdings Ltd;13.5;13.5;13.5;-
-FIRE;Sameer Africa Ltd;4.0;4.2;4.1;20400
-BBK;Barclays Bank Ltd;12.9;13.1;13.05;378700
-COOP;Co-operative Bank of Kenya Ltd;11.1;11.95;11.4;1.38M
-DTK;Diamond Trust Bank Kenya Ltd;103.0;103.0;103.0;17700
-EQTY;Equity Group Holdings Ltd;22.5;23.0;22.5;1.97M
-HFCK;HF Group Limited;16.0;16.5;16.2;52100
-KCB;Kenya Commercial Bank Ltd;23.5;24.0;23.5;1.23M
-NBK;National Bank of Kenya Ltd;19.0;19.75;19.0;2900
-NIC;NIC Bank Ltd;35.0;36.25;36.0;655500
-CFC;Stanbic Holdings Ltd;42.25;42.25;42.25;-
-SCBK;Standard Chartered Bank Ltd;183.0;201.0;191.0;6200
-XPRS;Express Ltd;3.6;3.6;3.6;800
-KQ;Kenya Airways Ltd;13.1;13.5;13.35;55400
-LKL;Longhorn Kenya Ltd;19.5;19.5;19.5;1400
-NMG;Nation Media Group;170.0;171.0;170.0;6900
-SGL;Standard Group Ltd;24.0;25.0;24.5;1500
-TPSE;TPS Eastern Africa (Serena) Ltd;42.0;42.0;42.0;1400
-UCHM;Uchumi Supermarket Ltd;15.5;16.5;15.7;58000
-SCAN;WPP ScanGroup Ltd;53.0;56.0;54.5;10800
-ARM;ARM Cement Ltd;201.0;202.0;201.0;212600
-BAMB;Bamburi Cement Ltd;155.0;158.0;156.0;26600
-BERG;Crown Berger Ltd;34.5;35.5;34.5;284100
-CABL;East African Cables Ltd;10.3;11.0;10.8;38400
-PORT;East African Portland Cement Ltd;63.0;63.0;63.0;-
-KENO;KenolKobil Ltd;12.5;12.5;12.5;-
-KEGN;Kenya Electricity Generating Company Ltd;8.15;8.5;8.2;286200
-KPLC;Kenya Power and Lighting Ltd;14.5;15.0;14.65;130300
-TOTL;Total Kenya Ltd;15.65;15.65;15.65;500
-BRIT;Britam Holdings Ltd;5.15;5.5;5.3;458300
-JUB;Jubilee Holdings Ltd;163.0;165.0;163.0;1300
-KNRE;Kenya Re-Insurance Corporation Ltd;10.1;11.2;10.95;786000
-CFCI;Liberty Kenya Holdings Ltd;7.65;7.8;7.7;10000
-PAFR;Sanlam Kenya Plc;40.0;42.0;40.75;91900
-ICDC;Centum Investment Company Ltd;12.25;14.8;13.3;131600
-OCH;Olympia Capital Holdings Ltd;3.8;3.9;3.8;10600
-TCL;Trans-Century Ltd;24.0;24.0;24.0;-
-BOC;BOC Kenya Ltd;110.0;110.0;110.0;-
-BAT;British American Tobacco Kenya Ltd;358.0;358.0;358.0;200
-CARB;Carbacid Investments Ltd;115.0;115.0;115.0;9900
-EABL;East African Breweries Ltd;220.0;235.0;223.0;525300
-EVRD;Eveready East Africa Ltd;1.7;1.7;1.7;1500
-ORCH;Kenya Orchards Ltd;3.0;3.0;3.0;-
-MSC;Mumias Sugar Company Ltd;6.45;6.6;6.5;1.54M
-UNGA;Unga Group Ltd;12.2;12.7;12.25;1000
-SCOM;Safaricom Ltd;3.4;3.5;3.45;17.70M
-KPLC-P4;KPLC-P4;7.65;7.65;7.65;-
-KPLC-P7;KPLC-P7;5.5;5.5;5.5;-
-^N20I;NSE 20-Share Index;3663.11;3663.11;3663.11;-
-^NASI;NSE All-Share Index;80.18;80.18;80.18;-
-;;;;;
+EGAD;Eaagads Ltd;32.5;32.5;32.5;32.5;-
+KUKZ;Kakuzi;75.0;75.0;75.0;75.0;1500
+KAPC;Kapchorua Tea Company Ltd;147.0;147.0;147.0;147.0;1600
+LIMT;Limuru Tea Company Ltd;460.0;460.0;460.0;500.0;200
+SASN;Sasini Tea and Coffee Ltd;12.35;12.7;12.35;12.35;13400
+WTK;Williamson Tea Kenya Ltd;278.0;278.0;278.0;277.0;2000
+C&G;Car and General (K) Ltd;28.0;28.0;28.0;28.0;200
+CMC;CMC Holdings Ltd;13.5;13.5;13.5;13.5;-
+FIRE;Sameer Africa Ltd;4.0;4.2;4.1;4.15;20400
+BBK;Barclays Bank Ltd;12.9;13.1;13.05;13.0;378700
+COOP;Co-operative Bank of Kenya Ltd;11.1;11.95;11.4;11.65;1.38M
+DTK;Diamond Trust Bank Kenya Ltd;103.0;103.0;103.0;103.0;17700
+EQTY;Equity Group Holdings Ltd;22.5;23.0;22.5;22.25;1.97M
+HFCK;HF Group Limited;16.0;16.5;16.2;16.35;52100
+KCB;Kenya Commercial Bank Ltd;23.5;24.0;23.5;23.25;1.23M
+NBK;National Bank of Kenya Ltd;19.0;19.75;19.0;19.75;2900
+NIC;NIC Bank Ltd;35.0;36.25;36.0;35.75;655500
+CFC;Stanbic Holdings Ltd;42.25;42.25;42.25;42.25;-
+SCBK;Standard Chartered Bank Ltd;183.0;201.0;191.0;183.0;6200
+XPRS;Express Ltd;3.6;3.6;3.6;3.95;800
+KQ;Kenya Airways Ltd;13.1;13.5;13.35;13.35;55400
+LKL;Longhorn Kenya Ltd;19.5;19.5;19.5;19.5;1400
+NMG;Nation Media Group;170.0;171.0;170.0;170.0;6900
+SGL;Standard Group Ltd;24.0;25.0;24.5;24.5;1500
+TPSE;TPS Eastern Africa (Serena) Ltd;42.0;42.0;42.0;43.75;1400
+UCHM;Uchumi Supermarket Ltd;15.5;16.5;15.7;16.95;58000
+SCAN;WPP ScanGroup Ltd;53.0;56.0;54.5;54.0;10800
+ARM;ARM Cement Ltd;201.0;202.0;201.0;201.0;212600
+BAMB;Bamburi Cement Ltd;155.0;158.0;156.0;157.0;26600
+BERG;Crown Berger Ltd;34.5;35.5;34.5;34.0;284100
+CABL;East African Cables Ltd;10.3;11.0;10.8;10.35;38400
+PORT;East African Portland Cement Ltd;63.0;63.0;63.0;63.0;-
+KENO;KenolKobil Ltd;12.5;12.5;12.5;12.5;-
+KEGN;Kenya Electricity Generating Company Ltd;8.15;8.5;8.2;8.15;286200
+KPLC;Kenya Power and Lighting Ltd;14.5;15.0;14.65;14.55;130300
+TOTL;Total Kenya Ltd;15.65;15.65;15.65;15.65;500
+BRIT;Britam Holdings Ltd;5.15;5.5;5.3;5.25;458300
+JUB;Jubilee Holdings Ltd;163.0;165.0;163.0;160.0;1300
+KNRE;Kenya Re-Insurance Corporation Ltd;10.1;11.2;10.95;10.45;786000
+CFCI;Liberty Kenya Holdings Ltd;7.65;7.8;7.7;7.9;10000
+PAFR;Sanlam Kenya Plc;40.0;42.0;40.75;39.5;91900
+ICDC;Centum Investment Company Ltd;12.25;14.8;13.3;14.75;131600
+OCH;Olympia Capital Holdings Ltd;3.8;3.9;3.8;3.8;10600
+TCL;Trans-Century Ltd;24.0;24.0;24.0;24.0;-
+BOC;BOC Kenya Ltd;110.0;110.0;110.0;110.0;-
+BAT;British American Tobacco Kenya Ltd;358.0;358.0;358.0;359.0;200
+CARB;Carbacid Investments Ltd;115.0;115.0;115.0;114.0;9900
+EABL;East African Breweries Ltd;220.0;235.0;223.0;220.0;525300
+EVRD;Eveready East Africa Ltd;1.7;1.7;1.7;1.7;1500
+ORCH;Kenya Orchards Ltd;3.0;3.0;3.0;3.0;-
+MSC;Mumias Sugar Company Ltd;6.45;6.6;6.5;6.55;1.54M
+UNGA;Unga Group Ltd;12.2;12.7;12.25;12.75;1000
+SCOM;Safaricom Ltd;3.4;3.5;3.45;3.4;17.70M
+KPLC-P4;KPLC-P4;7.65;7.65;7.65;7.65;-
+KPLC-P7;KPLC-P7;5.5;5.5;5.5;5.5;-
+^N20I;NSE 20-Share Index;3663.11;3663.11;3663.11;3682.23;-
+^NASI;NSE All-Share Index;80.18;80.18;80.18;79.83;-
+;;;;;;

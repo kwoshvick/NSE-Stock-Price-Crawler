@@ -1,40 +1,39 @@
-KUKZ;Kakuzi;32.5;32.5;32.5;600
-REA;Rea Vipingo Plantations Ltd;21.0;22.0;21.5;5700
-SASN;Sasini Tea and Coffee Ltd;13.5;16.5;14.75;27400
-CMC;CMC Holdings Ltd;18.55;19.4;18.95;599400
-FIRE;Sameer Africa Ltd;11.5;11.9;11.75;4900
-BBK;Barclays Bank Ltd;75.0;78.0;76.5;187400
-DTK;Diamond Trust Bank Kenya Ltd;84.0;89.0;86.5;251200
-EQTY;Equity Group Holdings Ltd;135.0;142.0;138.0;135100
-HFCK;HF Group Limited;39.0;43.5;40.5;286100
-KCB;Kenya Commercial Bank Ltd;27.25;29.0;28.0;2.48M
-NBK;National Bank of Kenya Ltd;42.0;45.5;43.25;39700
-NIC;NIC Bank Ltd;55.0;60.0;57.0;96900
-CFC;Stanbic Holdings Ltd;125.0;128.0;127.0;2400
-SCBK;Standard Chartered Bank Ltd;204.0;215.0;205.0;96000
-XPRS;Express Ltd;22.0;24.5;22.0;38100
-KQ;Kenya Airways Ltd;56.5;58.5;56.5;64400
-NMG;Nation Media Group;315.0;325.0;319.0;6200
-SGL;Standard Group Ltd;53.0;53.5;53.0;4100
-TPSE;TPS Eastern Africa (Serena) Ltd;58.0;65.5;59.5;80400
-SCAN;WPP ScanGroup Ltd;28.0;30.0;29.75;170300
-ARM;ARM Cement Ltd;95.0;99.0;95.5;18600
-BAMB;Bamburi Cement Ltd;196.0;199.0;196.0;3700
-BERG;Crown Berger Ltd;49.0;49.0;49.0;500
-CABL;East African Cables Ltd;42.0;42.75;42.25;92600
-PORT;East African Portland Cement Ltd;138.0;138.0;138.0;2200
-KENO;KenolKobil Ltd;98.0;101.0;98.5;8600
-KEGN;Kenya Electricity Generating Company Ltd;25.75;27.0;26.25;481200
-KPLC;Kenya Power and Lighting Ltd;210.0;220.0;217.0;14500
-TOTL;Total Kenya Ltd;31.0;31.5;31.25;12800
-JUB;Jubilee Holdings Ltd;200.0;211.0;209.0;1300
-KNRE;Kenya Re-Insurance Corporation Ltd;15.55;16.5;16.05;561800
-ICDC;Centum Investment Company Ltd;26.5;28.0;27.25;203900
-OCH;Olympia Capital Holdings Ltd;14.4;14.4;14.4;600
-BAT;British American Tobacco Kenya Ltd;137.0;140.0;138.0;25900
-EABL;East African Breweries Ltd;155.0;158.0;156.0;11100
-EVRD;Eveready East Africa Ltd;7.5;8.0;7.6;15400
-MSC;Mumias Sugar Company Ltd;13.05;14.0;13.5;943100
-UNGA;Unga Group Ltd;13.05;14.0;13.25;14300
-^N20I;NSE 20-Share Index;5111.74;5111.74;5111.74;-
-;;;;;
+KUKZ;Kakuzi;32.5;32.5;32.5;32.25;600
+SASN;Sasini Tea and Coffee Ltd;13.5;16.5;14.75;16.5;27400
+CMC;CMC Holdings Ltd;18.55;19.4;18.95;18.95;599400
+FIRE;Sameer Africa Ltd;11.5;11.9;11.75;11.6;4900
+BBK;Barclays Bank Ltd;75.0;78.0;76.5;77.5;187400
+DTK;Diamond Trust Bank Kenya Ltd;84.0;89.0;86.5;87.0;251200
+EQTY;Equity Group Holdings Ltd;135.0;142.0;138.0;139.0;135100
+HFCK;HF Group Limited;39.0;43.5;40.5;41.5;286100
+KCB;Kenya Commercial Bank Ltd;27.25;29.0;28.0;28.25;2.48M
+NBK;National Bank of Kenya Ltd;42.0;45.5;43.25;43.75;39700
+NIC;NIC Bank Ltd;55.0;60.0;57.0;59.5;96900
+CFC;Stanbic Holdings Ltd;125.0;128.0;127.0;125.0;2400
+SCBK;Standard Chartered Bank Ltd;204.0;215.0;205.0;208.0;96000
+XPRS;Express Ltd;22.0;24.5;22.0;23.0;38100
+KQ;Kenya Airways Ltd;56.5;58.5;56.5;58.5;64400
+NMG;Nation Media Group;315.0;325.0;319.0;320.0;6200
+SGL;Standard Group Ltd;53.0;53.5;53.0;53.5;4100
+TPSE;TPS Eastern Africa (Serena) Ltd;58.0;65.5;59.5;63.5;80400
+SCAN;WPP ScanGroup Ltd;28.0;30.0;29.75;28.75;170300
+ARM;ARM Cement Ltd;95.0;99.0;95.5;98.5;18600
+BAMB;Bamburi Cement Ltd;196.0;199.0;196.0;190.0;3700
+BERG;Crown Berger Ltd;49.0;49.0;49.0;50.5;500
+CABL;East African Cables Ltd;42.0;42.75;42.25;42.5;92600
+PORT;East African Portland Cement Ltd;138.0;138.0;138.0;138.0;2200
+KENO;KenolKobil Ltd;98.0;101.0;98.5;100.0;8600
+KEGN;Kenya Electricity Generating Company Ltd;25.75;27.0;26.25;27.0;481200
+KPLC;Kenya Power and Lighting Ltd;210.0;220.0;217.0;216.0;14500
+TOTL;Total Kenya Ltd;31.0;31.5;31.25;31.75;12800
+JUB;Jubilee Holdings Ltd;200.0;211.0;209.0;209.0;1300
+KNRE;Kenya Re-Insurance Corporation Ltd;15.55;16.5;16.05;16.5;561800
+ICDC;Centum Investment Company Ltd;26.5;28.0;27.25;27.75;203900
+OCH;Olympia Capital Holdings Ltd;14.4;14.4;14.4;14.4;600
+BAT;British American Tobacco Kenya Ltd;137.0;140.0;138.0;138.0;25900
+EABL;East African Breweries Ltd;155.0;158.0;156.0;159.0;11100
+EVRD;Eveready East Africa Ltd;7.5;8.0;7.6;7.7;15400
+MSC;Mumias Sugar Company Ltd;13.05;14.0;13.5;13.75;943100
+UNGA;Unga Group Ltd;13.05;14.0;13.25;13.65;14300
+^N20I;NSE 20-Share Index;5111.74;5111.74;5111.74;5206.15;-
+;;;;;;
