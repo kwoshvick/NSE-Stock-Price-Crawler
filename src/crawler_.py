@@ -19,7 +19,8 @@ class Crawler:
         '''
         self.dailyShares = list()
         self.date = str(date)
-        self.createFolder('data/daily/'+self.date[0:4])
+        #self.createFolder('data/daily/'+self.date[0:4])
+        self.createFolder('data2/'+self.date[0:4])
         url = "https://live.mystocks.co.ke/price_list/" + self.date
         try:
             html = rq.urlopen(url).read()
@@ -49,6 +50,7 @@ class Crawler:
                     shareElements.append(element.string)
             # removes empty and None arrays, clean up from html extracted data
             if (shareElements != [] and len(shareElements) > 1):
+                print(shareElements)
                 # code
                 shareDetails.append(shareElements[0])
                 # name
@@ -68,6 +70,11 @@ class Crawler:
                     shareDetails.append(shareElements[7])
                 else:
                     shareDetails.append(float(shareElements[7].replace(',', '')))
+                # previous day's price
+                if shareElements[8] == None:
+                    shareDetails.append(shareElements[8])
+                else:
+                    shareDetails.append(float(shareElements[8].replace(',', '')))
                 # volume
                 if (shareElements[12] == None) or (shareElements[12] == '-'):
                     shareDetails.append(shareElements[12])
@@ -86,7 +93,8 @@ class Crawler:
     def saveCSV(self):
         year = self.date[0:4]
         month = self.date[4:6]
-        path = 'data/daily/'+str(year)+'/'+month+'/'
+        #path = 'data/daily/'+str(year)+'/'+month+'/'
+        path = 'data2/'
         folder = os.path.isdir(path)
         if folder == False:
             os.mkdir(path)
