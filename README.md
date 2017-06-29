@@ -17,11 +17,11 @@ The data crawled can be found in the `data` folder.
 
 * *Daily csv Format*
     * Each csv contains daily prices for all the companies for that day.
-    * | Code | Name | Lowest Price of the Day | Highest Price of the Day | Closing Price | Previous Day Closing Price |Volume Traded|
+    * Code | Name | Lowest Price of the Day | Highest Price of the Day | Closing Price | Previous Day Closing Price | Volume Traded
 
 * *Monthly & Yearly csv Format*
     * Each csv contains a particulars company prices for the month/ year
-   * Date | Lowest Price of the day | Highest Price of the day | Closing Price | Volume Traded
+   * Date | Lowest Price of the Day | Highest Price of the Day | Closing Price | Previous Day Closing Price | Volume Traded
 
 The `data` folder has 3 folders inside:
 * `Daily` folder
