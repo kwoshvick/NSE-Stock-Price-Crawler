@@ -2,6 +2,7 @@ import calendar
 import datetime
 from dateutil.easter import *
 
+
 class Calender:
     def __init__(self):
         calendar.setfirstweekday(calendar.MONDAY)
@@ -29,7 +30,6 @@ class Calender:
                 if int(newDate[4:6]) == month:
                     weekdays.append(newDate)
                     self._strMonth = newDate[4:6]
-
         tradingDays = self.holiday(weekdays)
         return tradingDays
 

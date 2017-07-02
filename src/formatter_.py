@@ -2,6 +2,7 @@ import os
 import csv
 from src.crawler_ import Crawler
 
+
 class FormatData:
     def __init__(self):
         self.yearsFolder = list()
@@ -16,7 +17,7 @@ class FormatData:
         sortedDataFolder = sorted(dataFolder)
         return sortedDataFolder
 
-    # extract data from the csv
+    # extract from daily csv
     def getMonthlyData(self,inputPath,outputPath):
         #return years in folder
         years = self.getDataInFolder(inputPath)
@@ -34,7 +35,7 @@ class FormatData:
                     dailyCsvPath = monthlyPath+str(day)
                     self.monthlyCSV(dailyCsvPath, day,outputPath + str(year)+'/'+str(month)+'/')
 
-    # saves the data in the relevant csv file
+    # saves the data in the monthly csv file
     def monthlyCSV(self, dailyPath, fileName, finalPath):
         with open(dailyPath, newline='') as csvfile:
             spamreader = csv.reader(csvfile, delimiter=';', quotechar='|')
@@ -51,7 +52,7 @@ class FormatData:
                 writeFile.writerows([row])
                 file.close()
 
-    # extract data from the csv
+    # extract from monthly csv
     def getYearlyData(self, inputPath, outputPath):
         years = self.getDataInFolder(inputPath)
         for year in years:
@@ -65,7 +66,7 @@ class FormatData:
                     csvPath = monthlyPath + str(monthlyCSV)
                     self.YearlyCSV(csvPath, monthlyCSV, outputPath + str(year) + '/')
 
-    # saves the data in the relevant csv file
+    # saves the data in the yearly csv file
     def YearlyCSV(self, monthlyCSVPath, csvName, outputPath):
         with open(monthlyCSVPath, newline='') as csvfile:
             spamreader = csv.reader(csvfile, delimiter=';', quotechar='|')
@@ -75,6 +76,7 @@ class FormatData:
                 writeFile.writerows([row])
                 file.close()
 
+    # extract from yearly csv
     def getCompanyData(self, inputPath, outputPath):
         years = self.getDataInFolder(inputPath)
         for year in years:
@@ -84,7 +86,7 @@ class FormatData:
                 csvPath = yearlyPath + str(yearlyCSV)
                 self.companyCSV(csvPath, yearlyCSV, outputPath + '/')
 
-    # saves the data in the relevant csv file
+    # saves the data in the company csv file
     def companyCSV(self, yearlyCSVPath, csvName, outputPath):
         with open(yearlyCSVPath, newline='') as csvfile:
             spamreader = csv.reader(csvfile, delimiter=';', quotechar='|')
@@ -93,9 +95,3 @@ class FormatData:
                 writeFile = csv.writer(file, delimiter=';')
                 writeFile.writerows([row])
                 file.close()
-
-
-
-
-
-

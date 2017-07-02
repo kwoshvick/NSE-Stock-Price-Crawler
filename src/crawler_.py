@@ -6,6 +6,7 @@ import urllib.error as error
 import urllib.request as rq
 from bs4 import BeautifulSoup
 
+
 class Crawler:
     def __init__(self):
         #log errors for pages not found
@@ -99,4 +100,3 @@ class Crawler:
         writeFile = csv.writer(myFile, delimiter=';')
         writeFile.writerows(self.dailyShares)
         myFile.close()
-
