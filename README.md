@@ -19,17 +19,20 @@ The data crawled can be found in the `data` folder.
     * Each csv contains daily prices for all the companies for that day.
     * Code | Name | Lowest Price of the Day | Highest Price of the Day | Closing Price | Previous Day Closing Price | Volume Traded
 
-* *Monthly & Yearly csv Format*
+* *Monthly , Yearly and Company csv Format*
     * Each csv contains a particulars company prices for the month/ year
    * Date | Lowest Price of the Day | Highest Price of the Day | Closing Price | Previous Day Closing Price | Volume Traded
 
-The `data` folder has 3 folders inside:
+The `data` folder has 4 folders inside:
 * `Daily` folder
 Has all nse daily prices ordered by year and months
 * `Monthly` folder
 All daily data put in a single csv for that month ordered by company code name.
 * `Yearly` folder
 All monthly data put in a single csv for that year.
+* `Company` folder
+All yearly data put in a single csv for that company.
+
 
 All errors *404* errors for pages not found can be found in the `errorlog` folder in the **error.log**
 
@@ -47,9 +50,12 @@ All errors *404* errors for pages not found can be found in the `errorlog` folde
                 
  - `monthly.py` - script gets each companies data from the daily csvs. It creates a csv for each company and saves the monthly
                   share prices of that company. The data is stored in the `data/monthly/` folder.
+                  
+ - `yearly.py` - script gets each companies data from the monthly csvs. It creates a csv for each company and saves the yearly
+                  share prices of that company. The data is stored in the `data/yearly/` folder.
+                  
+ - `company.py` - script gets each companies data from the yearly csvs. It creates a csv for each company and saves the company's
+                  share prices for the period specified. The data is stored in the `data/company/` folder.
 
 
- 
-## Contribution 
-
-If you have any additions fork this project repo, make changes on your clone and make a Pull Request. 
+    
