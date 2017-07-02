@@ -66,8 +66,8 @@ class FormatData:
                     self.YearlyCSV(csvPath, monthlyCSV, outputPath + str(year) + '/')
 
     # saves the data in the relevant csv file
-    def YearlyCSV(self, montklyCSVPath, csvName, outputPath):
-        with open(montklyCSVPath, newline='') as csvfile:
+    def YearlyCSV(self, monthlyCSVPath, csvName, outputPath):
+        with open(monthlyCSVPath, newline='') as csvfile:
             spamreader = csv.reader(csvfile, delimiter=';', quotechar='|')
             for row in spamreader:
                 file = open(outputPath + str(csvName), 'a')
@@ -75,38 +75,27 @@ class FormatData:
                 writeFile.writerows([row])
                 file.close()
 
+    def getCompanyData(self, inputPath, outputPath):
+        years = self.getDataInFolder(inputPath)
+        for year in years:
+            yearlyPath = inputPath + str(year) + '/'
+            year = self.getDataInFolder(yearlyPath)
+            for yearlyCSV in year:
+                csvPath = yearlyPath + str(yearlyCSV)
+                self.companyCSV(csvPath, yearlyCSV, outputPath + '/')
+
     # saves the data in the relevant csv file
-    # def monthlyCSV3(self, dailyPath, fileName, finalPath):
-    #     with open(dailyPath, newline='') as csvfile:
-    #         spamreader = csv.reader(csvfile, delimiter=';', quotechar='|')
-    #         for row in spamreader:
-    #             file = open(finalPath + str(fileName), 'a')
-    #             writeFile = csv.writer(file, delimiter=',')
-    #             writeFile.writerows([row])
-    #             file.close()
+    def companyCSV(self, yearlyCSVPath, csvName, outputPath):
+        with open(yearlyCSVPath, newline='') as csvfile:
+            spamreader = csv.reader(csvfile, delimiter=';', quotechar='|')
+            for row in spamreader:
+                file = open(outputPath + str(csvName), 'a')
+                writeFile = csv.writer(file, delimiter=';')
+                writeFile.writerows([row])
+                file.close()
 
 
 
 
 
 
-    # def getData3(self, inputPath, outputPath):
-    #     self.inputpath = inputPath
-    #     self.outputpath = outputPath
-    #     years = self.getYears()
-    #     for year in years:
-    #         # self.crawler.createFolder(self.outputpath + str(year))
-    #         yearlyPath = self.inputpath + str(year) + '/'
-    #         year = self.getDays(yearlyPath)
-    #         for i in year:
-    #             csvPath = yearlyPath + str(i)
-    #             print(csvPath)
-    #             self.monthlyCSV3(csvPath, i, self.outputpath + '/')
-    #         # months = self.getMonths(yearlyPath)
-    #         # for month in months:
-    #         #     monthlyPath = yearlyPath + str(month) + '/'
-    #         #     months = self.getDays(monthlyPath)
-    #         #
-    #         # #     for day in days:
-    #         # #         csvPath = dailyPath + str(day)
-    #         #         self.monthlyCSV2(csvPath, i, self.outputpath + str(year) + '/' )
