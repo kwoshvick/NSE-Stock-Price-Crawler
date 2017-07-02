@@ -4,4 +4,4 @@ inputPath = 'data/monthly/'
 outputPath = 'data/yearly/'
 
 formatter = FormatData()
-formatter.getData2(inputPath, outputPath)
+formatter.getYearlyData(inputPath, outputPath)

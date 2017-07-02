@@ -43,7 +43,7 @@ class FormatData:
                 # append date to be the first element
                 row.insert(0, date)
                 file = open(finalPath + str(row[1]) + '.csv', 'a')
-                writeFile = csv.writer(file, delimiter=',')
+                writeFile = csv.writer(file, delimiter=';')
                 # removes the code
                 del row[1]
                 # removes the company name
@@ -51,41 +51,29 @@ class FormatData:
                 writeFile.writerows([row])
                 file.close()
 
-
-    # returns the years in the folder
-    # def getYears(self):
-    #     for years in os.listdir(self.inputpath):
-    #         self.yearsFolder.append(years)
-    #     sortedYearsFolder = sorted(self.yearsFolder)
-    #     return sortedYearsFolder
-
-    # returns the months in the folder
-    # def getMonths(self,path):
-    #     monthsFolder = list()
-    #     for months in os.listdir(path):
-    #         monthsFolder.append(months)
-    #     sortedMonthsFolder = sorted(monthsFolder)
-    #     return sortedMonthsFolder
-
-    # returns the days csvs' in the folder
-    # def getDays(self,path):
-    #     daysFolder = list()
-    #     for days in os.listdir(path):
-    #         daysFolder.append(days)
-    #     sortedDaysFolder = sorted(daysFolder)
-    #     return sortedDaysFolder
-
-
+    # extract data from the csv
+    def getYearlyData(self, inputPath, outputPath):
+        years = self.getDataInFolder(inputPath)
+        for year in years:
+            self.crawler.createFolder(outputPath + str(year))
+            yearlyPath = inputPath + str(year) + '/'
+            months = self.getDataInFolder(yearlyPath)
+            for month in months:
+                monthlyPath = yearlyPath + str(month) + '/'
+                months = self.getDataInFolder(monthlyPath)
+                for monthlyCSV in months:
+                    csvPath = monthlyPath + str(monthlyCSV)
+                    self.YearlyCSV(csvPath, monthlyCSV, outputPath + str(year) + '/')
 
     # saves the data in the relevant csv file
-    # def monthlyCSV2(self, dailyPath, fileName, finalPath):
-    #     with open(dailyPath, newline='') as csvfile:
-    #         spamreader = csv.reader(csvfile, delimiter=';', quotechar='|')
-    #         for row in spamreader:
-    #             file = open(finalPath + str(fileName), 'a')
-    #             writeFile = csv.writer(file, delimiter=',')
-    #             writeFile.writerows([row])
-    #             file.close()
+    def YearlyCSV(self, montklyCSVPath, csvName, outputPath):
+        with open(montklyCSVPath, newline='') as csvfile:
+            spamreader = csv.reader(csvfile, delimiter=';', quotechar='|')
+            for row in spamreader:
+                file = open(outputPath + str(csvName), 'a')
+                writeFile = csv.writer(file, delimiter=',')
+                writeFile.writerows([row])
+                file.close()
 
     # saves the data in the relevant csv file
     # def monthlyCSV3(self, dailyPath, fileName, finalPath):
@@ -99,25 +87,7 @@ class FormatData:
 
 
 
-    # extract data from the csv
 
-    # def getData2(self, inputPath, outputPath):
-    #     self.inputpath = inputPath
-    #     self.outputpath = outputPath
-    #     years = self.getYears()
-    #     for year in years:
-    #         self.crawler.createFolder(self.outputpath + str(year))
-    #         yearlyPath = self.inputpath + str(year) + '/'
-    #         months = self.getMonths(yearlyPath)
-    #         for month in months:
-    #             monthlyPath = yearlyPath + str(month) + '/'
-    #             months = self.getDays(monthlyPath)
-    #             for i in months:
-    #                 csvPath = monthlyPath + str(i)
-    #                 print(csvPath)
-    #         #     for day in days:
-    #         #         csvPath = dailyPath + str(day)
-    #                 self.monthlyCSV2(csvPath, i, self.outputpath + str(year) + '/' )
 
 
     # def getData3(self, inputPath, outputPath):
