@@ -1,7 +1,7 @@
+Code;Name;Lowest Price of the Day;Highest Price of the Day;Closing Price;Previous Day Closing Price;Volume Traded
 LIMT;Limuru Tea Company Ltd;305.0;305.0;305.0;338.0;200
 SASN;Sasini Tea and Coffee Ltd;5.2;5.7;5.55;5.7;16000
 WTK;Williamson Tea Kenya Plc;60.0;60.0;60.0;62.0;300
-CMC;CMC Holdings Ltd;14.3;15.0;14.35;14.45;165600
 FIRE;Sameer Africa Ltd;6.1;6.1;6.1;6.1;400
 BBK;Barclays Bank Ltd;48.0;48.75;48.25;48.0;118600
 DTK;Diamond Trust Bank Kenya Ltd;65.0;68.0;65.5;66.0;7000
@@ -34,7 +34,7 @@ EABL;East African Breweries Ltd;129.0;134.0;129.0;129.0;311100
 EVRD;Eveready East Africa Ltd;4.0;4.05;4.0;4.0;33600
 MSC;Mumias Sugar Company Ltd;5.85;6.0;5.9;5.85;552000
 UNGA;Unga Group Ltd;12.0;13.0;12.45;13.05;3000
-SCOM;Safaricom Ltd;3.2;3.4;3.2;3.35;5.25M
+SCOM;Safaricom PLC;3.2;3.4;3.2;3.35;5.25M
 ^N20I;NSE 20-Share Index;3162.43;3162.43;3162.43;3168.05;-
 ^NASI;NSE All-Share Index;66.81;66.81;66.81;67.56;-
 ;;;;;;

@@ -98,5 +98,7 @@ class Crawler:
             os.mkdir(path)
         myFile = open(path+str(self.date)+'.csv', 'w')
         writeFile = csv.writer(myFile, delimiter=';')
+        writeFile.writerow(['Code','Name','Lowest Price of the Day','Highest Price of the Day',
+                             'Closing Price','Previous Day Closing Price','Volume Traded'],)
         writeFile.writerows(self.dailyShares)
         myFile.close()

@@ -1,3 +1,4 @@
+Code;Name;Lowest Price of the Day;Highest Price of the Day;Closing Price;Previous Day Closing Price;Volume Traded
 EGAD;Eaagads Ltd;47.75;47.75;47.75;47.75;-
 KUKZ;Kakuzi;73.0;78.0;77.0;78.0;21200
 KAPC;Kapchorua Tea Kenya Plc;139.0;139.0;139.0;139.0;-
@@ -5,7 +6,6 @@ LIMT;Limuru Tea Company Ltd;293.0;293.0;293.0;293.0;-
 SASN;Sasini Tea and Coffee Ltd;15.0;15.8;15.1;14.9;338100
 WTK;Williamson Tea Kenya Plc;180.0;180.0;180.0;180.0;-
 C&G;Car and General (K) Ltd;41.0;41.0;41.0;38.0;300
-CMC;CMC Holdings Ltd;13.05;13.5;13.1;13.15;51000
 FIRE;Sameer Africa Ltd;9.5;9.7;9.6;9.6;39900
 BBK;Barclays Bank Ltd;57.5;58.5;57.5;58.0;56000
 COOP;Co-operative Bank of Kenya Ltd;11.7;12.0;11.8;11.85;704500
@@ -46,7 +46,7 @@ EVRD;Eveready East Africa Ltd;4.6;4.75;4.65;4.7;19500
 ORCH;Kenya Orchards Ltd;3.0;3.0;3.0;3.0;-
 MSC;Mumias Sugar Company Ltd;13.0;13.2;13.1;13.0;825600
 UNGA;Unga Group Ltd;11.1;12.5;11.5;11.85;18100
-SCOM;Safaricom Ltd;5.8;5.9;5.8;5.8;9.47M
+SCOM;Safaricom PLC;5.8;5.9;5.8;5.8;9.47M
 KPLC-P4;KPLC-P4;7.65;7.65;7.65;7.65;-
 KPLC-P7;KPLC-P7;5.5;5.5;5.5;5.5;-
 ^N20I;NSE 20-Share Index;4205.54;4205.54;4205.54;4217.18;-
