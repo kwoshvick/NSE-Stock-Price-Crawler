@@ -13,7 +13,7 @@ The data crawled can be found in the `data` folder.
   - To install the python3 dependencies.
 
 
-**Data Format in the csv's**
+**Data Format in the csv**
 
 * *Daily csv Format*
     * Each csv contains daily prices for all the companies for that day.
