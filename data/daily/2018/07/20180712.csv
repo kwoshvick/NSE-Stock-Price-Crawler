@@ -35,7 +35,7 @@ BERG;Crown Berger Ltd;65.0;65.0;65.0;72.0;100
 CABL;East African Cables Ltd;4.6;4.65;4.6;4.3;7800
 PORT;East African Portland Cement Ltd;17.5;17.5;17.5;17.5;-
 KENO;KenolKobil Ltd;17.5;17.65;17.55;17.8;463500
-KEGN;Kenya Electricity Generating Company Ltd;6.95;7.0;6.95;6.95;63200
+KEGN;Kenya Electricity Generating Company Plc;6.95;7.0;6.95;6.95;63200
 KPLC;Kenya Power and Lighting Ltd;6.55;6.6;6.55;6.6;165400
 TOTL;Total Kenya Ltd;28.0;29.75;28.5;28.25;6600
 UMME;Umeme Limited;8.65;8.65;8.65;8.6;46800
@@ -67,4 +67,6 @@ KPLC-P7;KPLC-P7;6.0;6.0;6.0;6.0;-
 ^N20I;NSE 20-Share Index;3302.17;3302.17;3302.17;3308.67;-
 ^N25I;NSE 25-Share Index;4415.87;4415.87;4415.87;4428.52;-
 ^NASI;NSE All-Share Index;171.86;171.86;171.86;172.23;-
+^ZKEQTK;Zamara Kenya Equity Index (KES);1992.43;1992.43;1992.43;1997.28;-
+^ZKEQTU;Zamara Kenya Equity Index (USD);1702.71;1702.71;1702.71;1707.71;-
 ;;;;;;

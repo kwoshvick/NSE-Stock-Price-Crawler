@@ -35,7 +35,7 @@ BERG;Crown Berger Ltd;59.0;59.0;59.0;59.0;-
 CABL;East African Cables Ltd;4.3;4.3;4.3;4.4;1200
 PORT;East African Portland Cement Ltd;17.5;17.5;17.5;17.5;-
 KENO;KenolKobil Ltd;17.3;17.5;17.45;17.55;311700
-KEGN;Kenya Electricity Generating Company Ltd;6.9;7.0;6.9;6.95;130500
+KEGN;Kenya Electricity Generating Company Plc;6.9;7.0;6.9;6.95;130500
 KPLC;Kenya Power and Lighting Ltd;6.3;6.6;6.4;6.5;723100
 TOTL;Total Kenya Ltd;30.0;32.0;31.5;29.25;44900
 UMME;Umeme Limited;8.9;8.9;8.9;8.9;15000
@@ -64,5 +64,7 @@ FAHR;Stanlib Fahari Income-REIT;10.6;11.0;10.65;10.6;159000
 GLD;Barclays NewGold ETF;1220.0;1220.0;1220.0;1220.0;-
 KPLC-P4;KPLC-P4;5.0;5.0;5.0;5.0;-
 KPLC-P7;KPLC-P7;6.0;6.0;6.0;6.0;-
+^N20I;NSE 20-Share Index;3290.4;3290.4;3290.4;3326.78;-
+^N25I;NSE 25-Share Index;4413.31;4413.31;4413.31;4406.09;-
 ^NASI;NSE All-Share Index;172.22;172.22;172.22;171.06;-
 ;;;;;;
