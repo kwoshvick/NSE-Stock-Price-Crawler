@@ -2,37 +2,40 @@ Code;Name;Lowest Price of the Day;Highest Price of the Day;Closing Price;Previou
 EGAD;Eaagads Ltd;24.0;24.0;24.0;24.0;-
 KUKZ;Kakuzi;71.0;71.0;71.0;71.0;-
 KAPC;Kapchorua Tea Kenya Plc;118.0;118.0;118.0;112.0;300
-LIMT;Limuru Tea Company Ltd;430.0;430.0;430.0;430.0;-
+LIMT;Limuru Tea Plc;430.0;430.0;430.0;430.0;-
 SASN;Sasini Tea and Coffee Ltd;11.8;12.0;11.9;11.9;2000
 WTK;Williamson Tea Kenya Plc;200.0;200.0;200.0;200.0;-
 C&G;Car and General (K) Ltd;22.5;23.0;22.5;24.0;6500
-FIRE;Sameer Africa Ltd;4.65;4.8;4.75;4.75;41500
 BBK;Barclays Bank Ltd;16.1;16.2;16.1;16.1;631600
 COOP;Co-operative Bank of Kenya Ltd;13.0;13.15;13.05;12.95;502100
 DTK;Diamond Trust Bank Kenya Ltd;128.0;130.0;129.0;128.0;55300
 EQTY;Equity Group Holdings Ltd;26.0;27.0;26.5;26.25;194800
-HFCK;HF Group Limited;17.5;17.8;17.55;17.55;80100
-KCB;Kenya Commercial Bank Ltd;33.5;34.0;33.5;33.5;4.40M
+HFCK;HF Group Ltd;17.5;17.8;17.55;17.55;80100
+KCB;KCB Group Plc;33.5;34.0;33.5;33.5;4395100
 NBK;National Bank of Kenya Ltd;17.75;17.95;17.75;17.75;3400
-NIC;NIC Bank Ltd;41.75;43.0;42.5;42.5;152700
-CFC;Stanbic Holdings Ltd;43.0;45.0;44.25;42.75;300
-SCBK;Standard Chartered Bank Ltd;260.0;270.0;263.0;262.0;10900
+NIC;NIC Group Plc;41.75;43.0;42.5;42.6;152700
+CFC;Stanbic Holdings Plc;43.0;45.0;44.25;42.75;300
+SCBK;Standard Chartered Bank Kenya Ltd;260.0;270.0;263.0;262.0;10900
+EVRD;Eveready East Africa Ltd;1.9;2.0;1.9;1.95;22600
 XPRS;Express Ltd;3.5;3.5;3.5;3.5;-
-KQ;Kenya Airways Ltd;10.5;10.9;10.65;10.5;149600
-LKL;Longhorn Kenya Ltd;10.0;10.0;10.0;10.15;10000
+KQ;Kenya Airways Plc;10.5;10.9;10.65;10.5;149600
+LKL;Longhorn Publishers Plc;10.0;10.0;10.0;10.15;10000
 NMG;Nation Media Group Plc;255.0;263.0;260.0;259.0;14400
+FIRE;Sameer Africa Plc;4.65;4.8;4.75;4.75;41500
 SGL;Standard Group Ltd;22.0;24.0;23.5;22.0;8500
 TPSE;TPS Eastern Africa (Serena) Ltd;43.0;43.0;43.0;43.0;-
 UCHM;Uchumi Supermarket Ltd;19.0;19.1;19.05;19.15;58300
-SCAN;WPP ScanGroup Ltd;66.5;68.0;67.0;66.5;76900
+SCAN;WPP ScanGroup Plc;66.5;68.0;67.0;66.5;76900
 ARM;ARM Cement Ltd;51.0;53.0;51.5;52.0;320600
 BAMB;Bamburi Cement Ltd;203.0;205.0;203.0;205.0;5100
 BERG;Crown Berger Ltd;42.5;42.5;42.5;42.5;700
 CABL;East African Cables Ltd;13.0;13.5;13.4;13.45;66200
 PORT;East African Portland Cement Ltd;45.0;45.0;45.0;42.25;100
 KENO;KenolKobil Ltd;13.65;13.65;13.65;13.6;-
-KEGN;Kenya Electricity Generating Company Ltd;11.6;12.0;11.75;11.85;327600
-KPLC;Kenya Power and Lighting Ltd;17.6;17.95;17.7;17.65;2.30M
+KEGN;Kenya Electricity Generating Company Plc;11.6;12.0;11.75;11.85;327600
+KPLC;Kenya Power and Lighting Ltd;17.6;17.95;17.7;17.65;2296100
+KPLC-P4;KPLC-P4;7.65;7.65;7.65;7.65;-
+KPLC-P7;KPLC-P7;5.5;5.5;5.5;5.5;-
 TOTL;Total Kenya Ltd;14.0;14.0;14.0;13.65;7000
 BRIT;Britam Holdings Ltd;6.4;6.7;6.5;6.3;515800
 CIC;CIC Insurance Group Ltd;4.1;4.2;4.15;4.1;477200
@@ -43,17 +46,16 @@ PAFR;Sanlam Kenya Plc;42.75;43.0;42.75;42.75;2100
 ICDC;Centum Investment Company Ltd;13.25;13.45;13.25;13.25;52000
 OCH;Olympia Capital Holdings Ltd;3.6;3.6;3.6;3.6;-
 TCL;Trans-Century Ltd;24.0;25.0;24.75;25.25;958000
-BOC;BOC Kenya Ltd;105.0;105.0;105.0;105.0;-
-BAT;British American Tobacco Kenya Ltd;519.0;520.0;519.0;519.0;200
-CARB;Carbacid Investments Ltd;124.0;124.0;124.0;121.0;300
+BAT;BAT Kenya Plc;519.0;520.0;519.0;519.0;200
+BOC;BOC Kenya Plc;105.0;105.0;105.0;105.0;-
+CARB;Carbacid Investments Plc;124.0;124.0;124.0;121.0;300
 EABL;East African Breweries Ltd;300.0;304.0;303.0;301.0;466700
-EVRD;Eveready East Africa Ltd;1.9;2.0;1.9;1.95;22600
 ORCH;Kenya Orchards Ltd;3.0;3.0;3.0;3.0;-
 MSC;Mumias Sugar Company Ltd;5.0;5.05;5.0;5.0;383500
 UNGA;Unga Group Ltd;14.2;14.2;14.2;13.75;7000
-SCOM;Safaricom PLC;5.4;5.55;5.5;5.45;110.83M
-KPLC-P4;KPLC-P4;7.65;7.65;7.65;7.65;-
-KPLC-P7;KPLC-P7;5.5;5.5;5.5;5.5;-
+SCOM;Safaricom Plc;5.4;5.55;5.5;5.45;110832700
+^FNK15;FTSE NSE Kenya 15 Index;137.11;137.11;137.11;136.44;-
+^FNK25;FTSE NSE Kenya 25 Index;140.48;140.48;140.48;139.73;-
 ^N20I;NSE 20-Share Index;4420.79;4420.79;4420.79;4416.6;-
 ^NASI;NSE All-Share Index;104.09;104.09;104.09;103.5;-
 ;;;;;;

@@ -2,37 +2,40 @@ Code;Name;Lowest Price of the Day;Highest Price of the Day;Closing Price;Previou
 EGAD;Eaagads Ltd;51.0;51.0;51.0;54.5;1100
 KUKZ;Kakuzi;75.0;75.0;75.0;75.0;10000
 KAPC;Kapchorua Tea Kenya Plc;139.0;139.0;139.0;139.0;-
-LIMT;Limuru Tea Company Ltd;450.0;450.0;450.0;450.0;-
+LIMT;Limuru Tea Plc;450.0;450.0;450.0;450.0;-
 SASN;Sasini Tea and Coffee Ltd;10.85;11.2;11.05;11.0;2000
 WTK;Williamson Tea Kenya Plc;248.0;248.0;248.0;248.0;-
 C&G;Car and General (K) Ltd;25.0;25.0;25.0;25.0;-
-FIRE;Sameer Africa Ltd;3.8;3.95;3.8;3.85;59100
 BBK;Barclays Bank Ltd;14.1;14.3;14.15;14.05;250800
-COOP;Co-operative Bank of Kenya Ltd;11.0;11.3;11.15;11.3;1.40M
+COOP;Co-operative Bank of Kenya Ltd;11.0;11.3;11.15;11.3;1396100
 DTK;Diamond Trust Bank Kenya Ltd;95.0;95.0;95.0;95.5;100
-EQTY;Equity Group Holdings Ltd;21.25;21.5;21.25;21.25;5.12M
-HFCK;HF Group Limited;15.45;15.65;15.5;15.65;25300
-KCB;Kenya Commercial Bank Ltd;24.25;24.5;24.25;24.25;251600
+EQTY;Equity Group Holdings Ltd;21.25;21.5;21.25;21.25;5116500
+HFCK;HF Group Ltd;15.45;15.65;15.5;15.65;25300
+KCB;KCB Group Plc;24.25;24.5;24.25;24.25;251600
 NBK;National Bank of Kenya Ltd;19.0;19.25;19.05;19.05;42100
-NIC;NIC Bank Ltd;34.5;36.0;34.5;34.5;213000
-CFC;Stanbic Holdings Ltd;44.0;44.0;44.0;43.75;200
-SCBK;Standard Chartered Bank Ltd;192.0;202.0;200.0;196.0;8700
+NIC;NIC Group Plc;34.5;36.0;34.5;34.5;213000
+CFC;Stanbic Holdings Plc;44.0;44.0;44.0;43.75;200
+SCBK;Standard Chartered Bank Kenya Ltd;192.0;202.0;200.0;196.0;8700
+EVRD;Eveready East Africa Ltd;1.75;1.9;1.75;1.85;30400
 XPRS;Express Ltd;3.7;4.0;3.75;3.7;42400
-KQ;Kenya Airways Ltd;13.5;13.8;13.6;13.6;20700
-LKL;Longhorn Kenya Ltd;18.05;18.05;18.05;18.05;-
+KQ;Kenya Airways Plc;13.5;13.8;13.6;13.6;20700
+LKL;Longhorn Publishers Plc;18.05;18.05;18.05;18.05;-
 NMG;Nation Media Group Plc;178.0;178.0;178.0;178.0;-
+FIRE;Sameer Africa Plc;3.8;3.95;3.8;3.85;59100
 SGL;Standard Group Ltd;25.0;25.0;25.0;25.0;400
 TPSE;TPS Eastern Africa (Serena) Ltd;41.0;42.0;41.0;41.0;5400
 UCHM;Uchumi Supermarket Ltd;15.3;15.55;15.3;15.75;134400
-SCAN;WPP ScanGroup Ltd;56.0;57.5;57.0;57.5;14600
+SCAN;WPP ScanGroup Plc;56.0;57.5;57.0;57.5;14600
 ARM;ARM Cement Ltd;203.0;203.0;203.0;204.0;6000
 BAMB;Bamburi Cement Ltd;180.0;180.0;180.0;180.0;-
 BERG;Crown Berger Ltd;34.0;34.0;34.0;33.5;2800
 CABL;East African Cables Ltd;10.3;10.4;10.35;10.4;22400
 PORT;East African Portland Cement Ltd;57.5;57.5;57.5;57.0;100
 KENO;KenolKobil Ltd;15.15;15.7;15.4;15.55;509700
-KEGN;Kenya Electricity Generating Company Ltd;8.6;8.7;8.6;8.55;45500
+KEGN;Kenya Electricity Generating Company Plc;8.6;8.7;8.6;8.55;45500
 KPLC;Kenya Power and Lighting Ltd;15.3;15.8;15.4;15.4;399100
+KPLC-P4;KPLC-P4;7.65;7.65;7.65;7.65;-
+KPLC-P7;KPLC-P7;5.5;5.5;5.5;5.5;-
 TOTL;Total Kenya Ltd;16.85;17.4;17.35;16.8;1200
 BRIT;Britam Holdings Ltd;5.9;6.0;5.9;5.95;47900
 CIC;CIC Insurance Group Ltd;4.5;4.8;4.55;4.7;319100
@@ -43,17 +46,16 @@ PAFR;Sanlam Kenya Plc;34.75;34.75;34.75;34.75;-
 ICDC;Centum Investment Company Ltd;12.0;12.2;12.1;12.3;24600
 OCH;Olympia Capital Holdings Ltd;3.75;3.75;3.75;3.75;-
 TCL;Trans-Century Ltd;24.5;24.5;24.5;24.5;100
-BOC;BOC Kenya Ltd;111.0;111.0;111.0;111.0;-
-BAT;British American Tobacco Kenya Ltd;390.0;400.0;399.0;388.0;166600
-CARB;Carbacid Investments Ltd;120.0;120.0;120.0;124.0;100
+BAT;BAT Kenya Plc;390.0;400.0;399.0;388.0;166600
+BOC;BOC Kenya Plc;111.0;111.0;111.0;111.0;-
+CARB;Carbacid Investments Plc;120.0;120.0;120.0;124.0;100
 EABL;East African Breweries Ltd;222.0;226.0;225.0;223.0;194700
-EVRD;Eveready East Africa Ltd;1.75;1.9;1.75;1.85;30400
 ORCH;Kenya Orchards Ltd;3.0;3.0;3.0;3.0;-
-MSC;Mumias Sugar Company Ltd;7.0;7.1;7.0;7.0;1.36M
+MSC;Mumias Sugar Company Ltd;7.0;7.1;7.0;7.0;1359400
 UNGA;Unga Group Ltd;12.0;12.3;12.25;12.6;6200
-SCOM;Safaricom PLC;3.8;3.9;3.8;3.85;2.41M
-KPLC-P4;KPLC-P4;7.65;7.65;7.65;7.65;-
-KPLC-P7;KPLC-P7;5.5;5.5;5.5;5.5;-
+SCOM;Safaricom Plc;3.8;3.9;3.8;3.85;2406700
+^FNK15;FTSE NSE Kenya 15 Index;110.04;110.04;110.04;109.62;-
+^FNK25;FTSE NSE Kenya 25 Index;112.58;112.58;112.58;112.1;-
 ^N20I;NSE 20-Share Index;3815.1;3815.1;3815.1;3815.44;-
 ^NASI;NSE All-Share Index;83.64;83.64;83.64;83.46;-
 ;;;;;;

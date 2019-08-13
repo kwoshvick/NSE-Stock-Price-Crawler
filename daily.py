@@ -4,13 +4,13 @@ crawler = Crawler()
 calender = Calender()
 
 # start year
-startYear = 2019
+startYear = 2006
 # start month
-startMonth = 1
+startMonth = 9
 # end year
 endYear = 2019
 # end month
-endMonth = 1
+endMonth = 7
 
 
 while startYear < (endYear+1):
