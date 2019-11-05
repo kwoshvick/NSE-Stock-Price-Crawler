@@ -8,20 +8,20 @@ EQTY;Equity Group Holdings Ltd;138.0;151.0;147.0;138.0;735700
 HFCK;HF Group Ltd;38.0;42.0;40.25;39.2;264100
 KCB;KCB Group Plc;26.5;27.75;27.0;27.0;1965300
 NBK;National Bank of Kenya Ltd;42.0;45.0;44.0;42.75;76700
-NIC;NIC Group Plc;65.0;68.0;65.75;64.75;46400
-CFC;Stanbic Holdings Plc;127.0;129.0;128.0;125.0;12200
-SCBK;Standard Chartered Bank Kenya Ltd;200.0;202.0;201.0;202.0;55400
+NCBA;NCBA Group Plc;65.0;68.0;65.75;64.75;46400
+SBIC;Stanbic Holdings Plc;127.0;129.0;128.0;125.0;12200
+SCBK;Standard Chartered Bank Kenya Ltd;200.0;202.0;201.75;202.0;55400
 EVRD;Eveready East Africa Ltd;7.0;7.6;7.2;7.1;20200
 XPRS;Express Ltd;22.0;25.0;24.5;23.25;88200
 KQ;Kenya Airways Plc;64.0;66.5;65.0;65.0;122700
 NMG;Nation Media Group Plc;310.0;320.0;314.0;310.0;13800
-FIRE;Sameer Africa Plc;11.5;11.85;11.8;10.8;328600
+SMER;Sameer Africa Plc;11.5;11.85;11.8;10.8;328600
 SGL;Standard Group Ltd;52.5;52.5;52.5;53.0;100
 TPSE;TPS Eastern Africa (Serena) Ltd;75.5;80.0;77.5;78.5;59800
 SCAN;WPP ScanGroup Plc;29.0;30.5;29.25;29.75;256700
 ARM;ARM Cement Ltd;90.0;96.5;92.5;92.0;8900
 BAMB;Bamburi Cement Ltd;191.0;199.0;194.0;195.0;105000
-BERG;Crown Berger Ltd;43.0;50.5;48.75;46.0;53200
+CRWN;Crown Berger Ltd;43.0;50.5;48.75;46.0;53200
 CABL;East African Cables Ltd;43.25;48.0;44.75;46.0;309800
 PORT;East African Portland Cement Ltd;135.0;136.0;135.0;136.0;400
 KENO;KenolKobil Ltd;110.0;116.0;114.0;115.0;270200
@@ -30,8 +30,8 @@ KPLC;Kenya Power and Lighting Ltd;213.0;224.0;218.0;218.0;9500
 TOTL;Total Kenya Ltd;29.75;31.0;30.25;29.75;16000
 JUB;Jubilee Holdings Ltd;220.0;242.0;236.0;235.0;42700
 KNRE;Kenya Re-Insurance Corporation Ltd;15.4;16.2;15.7;15.55;1029000
-PAFR;Sanlam Kenya Plc;95.0;95.0;95.0;93.0;700
-ICDC;Centum Investment Company Ltd;26.75;28.0;27.15;27.1;257000
+SLAM;Sanlam Kenya Plc;95.0;95.0;95.0;93.0;700
+CTUM;Centum Investment Company Ltd;26.75;28.0;27.15;27.1;257000
 OCH;Olympia Capital Holdings Ltd;14.2;14.5;14.35;14.4;23900
 BAT;BAT Kenya Plc;134.0;140.0;138.0;134.0;5500
 EABL;East African Breweries Ltd;166.0;175.0;170.0;169.0;2143000

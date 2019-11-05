@@ -7,20 +7,20 @@ EQTY;Equity Group Holdings Ltd;220.0;236.0;234.0;215.0;437200
 HFCK;HF Group Ltd;22.75;24.5;23.25;24.5;132200
 KCB;KCB Group Plc;26.25;27.5;26.75;27.25;1060600
 NBK;National Bank of Kenya Ltd;49.0;53.0;50.5;53.0;45800
-NIC;NIC Group Plc;51.5;53.0;52.75;52.75;261100
-CFC;Stanbic Holdings Plc;90.0;93.0;90.5;91.5;1800
-SCBK;Standard Chartered Bank Kenya Ltd;180.0;184.0;182.0;180.0;10500
+NCBA;NCBA Group Plc;51.5;53.0;52.75;52.75;261100
+SBIC;Stanbic Holdings Plc;90.0;93.0;90.5;91.5;1800
+SCBK;Standard Chartered Bank Kenya Ltd;180.0;184.0;182.5;180.5;10500
 EVRD;Eveready East Africa Ltd;4.6;4.7;4.65;4.5;46500
 XPRS;Express Ltd;17.0;17.1;17.0;16.95;7800
 KQ;Kenya Airways Plc;45.0;46.5;45.75;46.25;53800
 NMG;Nation Media Group Plc;148.0;150.0;148.0;145.0;62700
-FIRE;Sameer Africa Plc;6.7;7.0;6.95;7.0;8200
+SMER;Sameer Africa Plc;6.7;7.0;6.95;7.0;8200
 SGL;Standard Group Ltd;50.0;50.0;50.0;50.0;2800
 TPSE;TPS Eastern Africa (Serena) Ltd;61.0;62.0;61.5;61.5;20000
 SCAN;WPP ScanGroup Plc;29.0;30.5;29.5;30.25;58800
 ARM;ARM Cement Ltd;108.0;109.0;108.0;108.0;17400
 BAMB;Bamburi Cement Ltd;180.0;195.0;194.0;189.0;47900
-BERG;Crown Berger Ltd;33.0;35.0;34.75;35.0;1700
+CRWN;Crown Berger Ltd;33.0;35.0;34.75;35.0;1700
 CABL;East African Cables Ltd;35.0;35.75;35.0;34.5;24700
 KENO;KenolKobil Ltd;88.0;88.0;88.0;82.5;1500
 KEGN;Kenya Electricity Generating Company Plc;21.25;22.25;21.75;21.25;527800
@@ -28,8 +28,8 @@ KPLC;Kenya Power and Lighting Ltd;178.0;180.0;179.0;176.0;190200
 TOTL;Total Kenya Ltd;29.0;30.0;29.75;29.5;7900
 JUB;Jubilee Holdings Ltd;160.0;165.0;163.0;162.0;4500
 KNRE;Kenya Re-Insurance Corporation Ltd;14.8;15.65;15.25;15.5;142400
-PAFR;Sanlam Kenya Plc;75.0;75.0;75.0;75.0;800
-ICDC;Centum Investment Company Ltd;20.25;22.0;21.15;22.45;136700
+SLAM;Sanlam Kenya Plc;75.0;75.0;75.0;75.0;800
+CTUM;Centum Investment Company Ltd;20.25;22.0;21.15;22.45;136700
 OCH;Olympia Capital Holdings Ltd;13.0;13.6;13.4;13.5;3200
 EABL;East African Breweries Ltd;167.0;169.0;167.0;167.0;18600
 MSC;Mumias Sugar Company Ltd;8.05;9.0;8.6;8.9;1795400

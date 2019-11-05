@@ -9,20 +9,20 @@ EQTY;Equity Group Holdings Ltd;229.0;240.0;231.0;229.0;47500
 HFCK;HF Group Ltd;27.0;30.0;28.8;29.2;31600
 KCB;KCB Group Plc;220.0;240.0;226.0;232.0;195500
 NBK;National Bank of Kenya Ltd;40.5;44.5;41.25;40.5;79600
-NIC;NIC Group Plc;91.0;100.0;94.75;94.0;76300
-CFC;Stanbic Holdings Plc;100.0;110.0;102.0;104.0;33500
-SCBK;Standard Chartered Bank Kenya Ltd;180.0;185.0;181.0;181.0;20100
+NCBA;NCBA Group Plc;91.0;100.0;94.75;94.0;76300
+SBIC;Stanbic Holdings Plc;100.0;110.0;102.0;104.0;33500
+SCBK;Standard Chartered Bank Kenya Ltd;180.0;185.0;181.25;181.0;20100
 EVRD;Eveready East Africa Ltd;11.0;11.1;11.0;11.1;131600
 XPRS;Express Ltd;24.0;25.0;24.5;25.25;4000
 KQ;Kenya Airways Plc;95.0;102.0;100.0;99.5;147000
 NMG;Nation Media Group Plc;273.0;275.0;273.0;268.0;5000
-FIRE;Sameer Africa Plc;15.4;17.1;15.95;15.5;30300
+SMER;Sameer Africa Plc;15.4;17.1;15.95;15.5;30300
 SGL;Standard Group Ltd;68.0;70.0;69.0;64.5;1000
 TPSE;TPS Eastern Africa (Serena) Ltd;76.0;83.0;81.5;82.5;3800
 SCAN;WPP ScanGroup Plc;23.0;24.5;23.25;23.5;122300
 ARM;ARM Cement Ltd;66.0;72.5;70.0;65.5;13600
 BAMB;Bamburi Cement Ltd;215.0;215.0;215.0;216.0;10800
-BERG;Crown Berger Ltd;37.0;40.0;38.75;39.5;6300
+CRWN;Crown Berger Ltd;37.0;40.0;38.75;39.5;6300
 CABL;East African Cables Ltd;35.0;38.75;36.75;36.0;40200
 PORT;East African Portland Cement Ltd;116.0;116.0;116.0;114.0;300
 KENO;KenolKobil Ltd;100.0;100.0;100.0;99.5;36200
@@ -30,8 +30,8 @@ KEGN;Kenya Electricity Generating Company Plc;21.0;24.75;23.0;22.5;935400
 KPLC;Kenya Power and Lighting Ltd;210.0;230.0;215.0;220.0;246000
 TOTL;Total Kenya Ltd;30.0;33.0;31.75;29.5;4400
 JUB;Jubilee Holdings Ltd;260.0;270.0;263.0;264.0;1300
-PAFR;Sanlam Kenya Plc;85.0;90.0;89.0;85.5;4400
-ICDC;Centum Investment Company Ltd;24.25;27.0;26.35;25.2;274500
+SLAM;Sanlam Kenya Plc;85.0;90.0;89.0;85.5;4400
+CTUM;Centum Investment Company Ltd;24.25;27.0;26.35;25.2;274500
 OCH;Olympia Capital Holdings Ltd;21.0;21.0;21.0;20.75;400
 BAT;BAT Kenya Plc;190.0;191.0;190.0;189.0;7700
 EABL;East African Breweries Ltd;138.0;150.0;142.0;140.0;72700

@@ -7,20 +7,20 @@ EQTY;Equity Group Holdings Ltd;201.0;220.0;203.0;223.0;180700
 HFCK;HF Group Ltd;20.5;22.0;21.4;22.0;31400
 KCB;KCB Group Plc;24.75;26.0;25.25;26.0;1273900
 NBK;National Bank of Kenya Ltd;48.5;50.0;49.25;50.5;20100
-NIC;NIC Group Plc;49.0;50.5;49.35;50.0;26200
-CFC;Stanbic Holdings Plc;88.0;88.5;88.0;88.5;900
-SCBK;Standard Chartered Bank Kenya Ltd;180.0;183.0;182.0;181.0;36700
+NCBA;NCBA Group Plc;49.0;50.5;49.35;50.0;26200
+SBIC;Stanbic Holdings Plc;88.0;88.5;88.0;88.5;900
+SCBK;Standard Chartered Bank Kenya Ltd;180.0;183.0;182.25;181.75;36700
 EVRD;Eveready East Africa Ltd;4.65;4.8;4.65;4.75;16900
 XPRS;Express Ltd;16.0;16.4;16.0;16.0;2400
 KQ;Kenya Airways Plc;42.0;44.0;43.25;45.25;12100
 NMG;Nation Media Group Plc;130.0;145.0;139.0;144.0;23200
-FIRE;Sameer Africa Plc;7.0;7.5;7.05;7.15;23500
+SMER;Sameer Africa Plc;7.0;7.5;7.05;7.15;23500
 SGL;Standard Group Ltd;48.0;48.75;48.0;49.5;1400
 TPSE;TPS Eastern Africa (Serena) Ltd;56.0;59.0;57.5;61.5;2900
 SCAN;WPP ScanGroup Plc;28.5;29.0;28.75;28.75;93200
 ARM;ARM Cement Ltd;103.0;108.0;107.0;110.0;67800
 BAMB;Bamburi Cement Ltd;185.0;185.0;185.0;185.0;6500
-BERG;Crown Berger Ltd;30.0;30.75;30.5;32.75;3000
+CRWN;Crown Berger Ltd;30.0;30.75;30.5;32.75;3000
 CABL;East African Cables Ltd;33.5;34.0;33.75;34.0;99300
 KENO;KenolKobil Ltd;85.0;89.0;88.5;89.0;8900
 KEGN;Kenya Electricity Generating Company Plc;19.25;21.0;20.25;20.75;304700
@@ -28,8 +28,8 @@ KPLC;Kenya Power and Lighting Ltd;167.0;173.0;171.0;174.0;5700
 TOTL;Total Kenya Ltd;29.5;30.0;29.75;30.75;13700
 JUB;Jubilee Holdings Ltd;160.0;170.0;164.0;170.0;700
 KNRE;Kenya Re-Insurance Corporation Ltd;14.0;14.9;14.2;14.9;139800
-PAFR;Sanlam Kenya Plc;74.5;77.0;75.5;74.5;9300
-ICDC;Centum Investment Company Ltd;18.0;20.0;19.35;19.95;252600
+SLAM;Sanlam Kenya Plc;74.5;77.0;75.5;74.5;9300
+CTUM;Centum Investment Company Ltd;18.0;20.0;19.35;19.95;252600
 OCH;Olympia Capital Holdings Ltd;13.0;13.6;13.45;13.5;24700
 BAT;BAT Kenya Plc;157.0;158.0;157.0;158.0;500
 EABL;East African Breweries Ltd;167.0;168.0;167.0;167.0;105000

@@ -5,31 +5,31 @@ KAPC;Kapchorua Tea Kenya Plc;156.0;156.0;156.0;156.0;-
 LIMT;Limuru Tea Plc;670.0;670.0;670.0;670.0;-
 SASN;Sasini Tea and Coffee Ltd;16.3;16.35;16.3;16.25;12800
 WTK;Williamson Tea Kenya Plc;280.0;280.0;280.0;280.0;500
-C&G;Car and General (K) Ltd;40.0;40.0;40.0;37.0;8200
+CGEN;Car and General (K) Ltd;40.0;40.0;40.0;37.0;8200
 BBK;Barclays Bank Ltd;16.85;17.0;16.9;16.8;244400
 COOP;Co-operative Bank of Kenya Ltd;20.5;21.5;21.0;21.0;670100
 DTK;Diamond Trust Bank Kenya Ltd;238.0;240.0;238.0;238.0;2200
 EQTY;Equity Group Holdings Ltd;41.5;42.0;41.75;41.75;2287300
 HFCK;HF Group Ltd;38.25;38.75;38.45;38.55;87000
-I&M;I & M Holdings Plc;132.0;132.0;132.0;132.75;41000
+IMH;I & M Holdings Plc;132.0;132.0;132.0;132.75;41000
 KCB;KCB Group Plc;48.75;49.75;49.25;48.75;3291100
 NBK;National Bank of Kenya Ltd;30.0;30.5;30.0;30.0;22700
-NIC;NIC Group Plc;57.0;59.0;58.25;58.75;44900
-CFC;Stanbic Holdings Plc;133.0;134.0;133.0;133.0;75000
-SCBK;Standard Chartered Bank Kenya Ltd;307.0;310.0;309.0;310.0;1200
+NCBA;NCBA Group Plc;57.0;59.0;58.25;58.75;44900
+SBIC;Stanbic Holdings Plc;133.0;134.0;133.0;133.0;75000
+SCBK;Standard Chartered Bank Kenya Ltd;307.0;310.0;309.5;310.0;1200
 EVRD;Eveready East Africa Ltd;3.55;3.7;3.65;3.6;5200
 XPRS;Express Ltd;7.8;7.9;7.8;7.8;5800
 KQ;Kenya Airways Plc;10.55;11.0;10.85;10.7;226700
 LKL;Longhorn Publishers Plc;14.0;14.0;14.0;13.95;5000
 NMG;Nation Media Group Plc;311.0;313.0;311.0;313.0;63600
-FIRE;Sameer Africa Plc;7.8;8.0;7.85;8.0;65800
+SMER;Sameer Africa Plc;7.8;8.0;7.85;8.0;65800
 SGL;Standard Group Ltd;32.5;33.0;32.75;32.0;16400
 TPSE;TPS Eastern Africa (Serena) Ltd;35.75;36.5;35.75;36.25;72100
 UCHM;Uchumi Supermarket Ltd;12.4;12.6;12.55;12.45;80200
 SCAN;WPP ScanGroup Plc;46.5;47.5;47.25;47.25;2002800
 ARM;ARM Cement Ltd;80.0;80.0;80.0;79.5;745500
 BAMB;Bamburi Cement Ltd;172.0;175.0;172.0;172.0;111900
-BERG;Crown Berger Ltd;93.5;95.5;93.5;94.0;1200
+CRWN;Crown Berger Ltd;93.5;95.5;93.5;94.0;1200
 CABL;East African Cables Ltd;14.3;14.55;14.45;14.4;10900
 PORT;East African Portland Cement Ltd;75.0;80.0;77.0;80.0;3500
 KENO;KenolKobil Ltd;8.95;9.1;9.0;9.0;4862500
@@ -42,10 +42,10 @@ UMME;Umeme Ltd;13.0;13.0;13.0;13.0;-
 BRIT;Britam Holdings Ltd;17.5;17.7;17.55;17.55;984800
 CIC;CIC Insurance Group Ltd;9.9;10.1;9.95;10.0;425600
 JUB;Jubilee Holdings Ltd;347.0;365.0;354.0;345.0;7700
-KNRE;Kenya Re-Insurance Corporation Ltd;18.55;19.0;18.9;18.95;33500
-CFCI;Liberty Kenya Holdings Ltd;16.7;18.0;17.75;17.95;55000
-PAFR;Sanlam Kenya Plc;129.0;134.0;132.0;130.0;33600
-ICDC;Centum Investment Company Ltd;39.5;40.75;39.75;40.1;1419100
+KNRE;Kenya Re-Insurance Corporation Ltd;18.55;19.0;18.9;19.0;33500
+LBTY;Liberty Kenya Holdings Ltd;16.7;18.0;17.75;17.95;55000
+SLAM;Sanlam Kenya Plc;129.0;134.0;132.0;130.0;33600
+CTUM;Centum Investment Company Ltd;39.5;40.75;39.75;40.1;1419100
 HAFR;Home Afrika Ltd;4.95;5.0;4.95;5.0;230000
 OCH;Olympia Capital Holdings Ltd;4.95;5.0;4.95;4.95;68900
 TCL;Trans-Century Ltd;23.0;24.0;23.0;23.0;978200

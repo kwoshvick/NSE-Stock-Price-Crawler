@@ -8,19 +8,19 @@ EQTY;Equity Group Holdings Ltd;135.0;155.0;139.0;149.0;80600
 HFCK;HF Group Ltd;13.35;14.8;13.5;14.8;46900
 KCB;KCB Group Plc;17.0;20.0;18.45;19.75;1469400
 NBK;National Bank of Kenya Ltd;37.0;40.0;38.25;38.5;243800
-NIC;NIC Group Plc;38.25;40.0;39.9;39.6;543900
-CFC;Stanbic Holdings Plc;55.0;55.0;55.0;58.0;1000
-SCBK;Standard Chartered Bank Kenya Ltd;165.0;166.0;165.0;165.0;15100
+NCBA;NCBA Group Plc;38.25;40.0;39.9;39.6;543900
+SBIC;Stanbic Holdings Plc;55.0;55.0;55.0;58.0;1000
+SCBK;Standard Chartered Bank Kenya Ltd;165.0;166.0;165.0;165.5;15100
 EVRD;Eveready East Africa Ltd;3.9;4.2;3.95;3.9;36200
 XPRS;Express Ltd;13.4;13.7;13.4;13.65;8200
 KQ;Kenya Airways Plc;29.0;30.5;29.5;29.75;25100
 NMG;Nation Media Group Plc;117.0;124.0;118.0;119.0;19100
-FIRE;Sameer Africa Plc;5.75;6.0;5.85;5.95;900
+SMER;Sameer Africa Plc;5.75;6.0;5.85;5.95;900
 SGL;Standard Group Ltd;49.0;49.0;49.0;49.0;5500
 TPSE;TPS Eastern Africa (Serena) Ltd;49.0;50.0;49.5;50.0;1600
 SCAN;WPP ScanGroup Plc;26.0;26.5;26.0;26.25;196000
 ARM;ARM Cement Ltd;86.5;95.0;87.5;86.5;70800
-BERG;Crown Berger Ltd;27.75;27.75;27.75;27.75;200
+CRWN;Crown Berger Ltd;27.75;27.75;27.75;27.75;200
 CABL;East African Cables Ltd;24.0;26.0;24.5;24.75;11500
 PORT;East African Portland Cement Ltd;90.0;90.0;90.0;99.5;100
 KENO;KenolKobil Ltd;65.0;65.0;65.0;70.5;28800
@@ -28,8 +28,8 @@ KEGN;Kenya Electricity Generating Company Plc;14.0;15.0;14.25;14.8;219200
 KPLC;Kenya Power and Lighting Ltd;129.0;133.0;129.0;132.0;6200
 TOTL;Total Kenya Ltd;25.0;27.0;25.75;27.0;23000
 JUB;Jubilee Holdings Ltd;117.0;118.0;117.0;129.0;3100
-KNRE;Kenya Re-Insurance Corporation Ltd;10.05;11.0;10.3;11.15;108700
-ICDC;Centum Investment Company Ltd;12.95;14.5;13.85;14.05;249400
+KNRE;Kenya Re-Insurance Corporation Ltd;10.05;11.0;10.35;11.15;108700
+CTUM;Centum Investment Company Ltd;12.95;14.5;13.85;14.05;249400
 OCH;Olympia Capital Holdings Ltd;10.0;10.05;10.0;10.25;3500
 BAT;BAT Kenya Plc;145.0;145.0;145.0;145.0;61500
 EABL;East African Breweries Ltd;106.0;120.0;114.0;117.0;504500

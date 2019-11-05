@@ -3,21 +3,21 @@ EGAD;Eaagads Ltd;49.0;49.0;49.0;50.0;100
 KUKZ;Kakuzi;34.0;37.0;35.75;36.25;4200
 KAPC;Kapchorua Tea Kenya Plc;107.0;108.0;107.0;108.0;900
 SASN;Sasini Tea and Coffee Ltd;19.0;19.9;19.55;19.7;28800
-C&G;Car and General (K) Ltd;56.0;56.0;56.0;60.0;3600
+CGEN;Car and General (K) Ltd;56.0;56.0;56.0;60.0;3600
 BBK;Barclays Bank Ltd;71.0;75.0;72.5;74.5;205900
 DTK;Diamond Trust Bank Kenya Ltd;91.0;100.0;99.5;100.0;219300
 EQTY;Equity Group Holdings Ltd;111.0;120.0;117.0;115.0;226100
 HFCK;HF Group Ltd;30.0;31.75;30.6;29.05;89100
 KCB;KCB Group Plc;25.0;28.0;25.75;26.0;1272900
 NBK;National Bank of Kenya Ltd;43.0;46.0;44.75;46.25;19100
-NIC;NIC Group Plc;156.0;160.0;158.25;155.5;63400
-CFC;Stanbic Holdings Plc;126.0;133.0;128.0;130.0;32300
-SCBK;Standard Chartered Bank Kenya Ltd;186.0;186.0;186.0;186.0;9500
+NCBA;NCBA Group Plc;156.0;160.0;158.25;155.5;63400
+SBIC;Stanbic Holdings Plc;126.0;133.0;128.0;130.0;32300
+SCBK;Standard Chartered Bank Kenya Ltd;186.0;186.0;186.0;186.5;9500
 EVRD;Eveready East Africa Ltd;8.0;8.8;8.05;8.4;126200
 XPRS;Express Ltd;24.0;24.25;24.0;23.25;37100
 KQ;Kenya Airways Plc;73.0;75.0;74.0;74.5;79000
 NMG;Nation Media Group Plc;250.0;265.0;260.0;262.0;27200
-FIRE;Sameer Africa Plc;12.5;13.1;12.85;12.4;64300
+SMER;Sameer Africa Plc;12.5;13.1;12.85;12.4;64300
 SGL;Standard Group Ltd;55.0;56.0;55.0;55.5;8200
 TPSE;TPS Eastern Africa (Serena) Ltd;88.0;90.0;88.5;88.0;234100
 SCAN;WPP ScanGroup Plc;26.25;27.0;26.75;26.75;118000
@@ -30,8 +30,8 @@ KEGN;Kenya Electricity Generating Company Plc;30.0;31.0;30.75;30.5;921300
 KPLC;Kenya Power and Lighting Ltd;226.0;230.0;227.0;229.0;55000
 TOTL;Total Kenya Ltd;29.25;31.0;29.75;31.5;18500
 JUB;Jubilee Holdings Ltd;235.0;235.0;235.0;238.0;400
-PAFR;Sanlam Kenya Plc;100.0;102.0;101.0;100.0;400
-ICDC;Centum Investment Company Ltd;26.5;29.5;28.45;27.65;244700
+SLAM;Sanlam Kenya Plc;100.0;102.0;101.0;100.0;400
+CTUM;Centum Investment Company Ltd;26.5;29.5;28.45;27.65;244700
 OCH;Olympia Capital Holdings Ltd;19.7;20.5;19.9;19.7;2500
 BAT;BAT Kenya Plc;175.0;175.0;175.0;174.0;5400
 EABL;East African Breweries Ltd;152.0;158.0;154.0;153.0;190600

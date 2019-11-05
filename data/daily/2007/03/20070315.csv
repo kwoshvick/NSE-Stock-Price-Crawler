@@ -9,20 +9,20 @@ EQTY;Equity Group Holdings Ltd;235.0;241.0;239.0;240.0;90100
 HFCK;HF Group Ltd;27.0;30.0;28.4;28.9;36300
 KCB;KCB Group Plc;212.0;225.0;218.0;220.0;310700
 NBK;National Bank of Kenya Ltd;50.0;55.5;52.5;51.0;99200
-NIC;NIC Group Plc;95.0;97.0;96.0;96.0;10300
-CFC;Stanbic Holdings Plc;105.0;110.0;105.0;105.0;10900
-SCBK;Standard Chartered Bank Kenya Ltd;185.0;195.0;194.0;194.0;57300
+NCBA;NCBA Group Plc;95.0;97.0;96.0;96.0;10300
+SBIC;Stanbic Holdings Plc;105.0;110.0;105.0;105.0;10900
+SCBK;Standard Chartered Bank Kenya Ltd;185.0;195.0;194.25;194.5;57300
 EVRD;Eveready East Africa Ltd;9.5;10.5;9.9;9.7;106600
 XPRS;Express Ltd;23.5;23.75;23.5;25.25;1000
 KQ;Kenya Airways Plc;85.0;93.0;89.5;90.0;131700
 NMG;Nation Media Group Plc;254.0;272.0;263.0;264.0;37000
-FIRE;Sameer Africa Plc;14.0;16.0;14.6;14.85;66800
+SMER;Sameer Africa Plc;14.0;16.0;14.6;14.85;66800
 SGL;Standard Group Ltd;60.0;64.0;62.0;62.0;8900
 TPSE;TPS Eastern Africa (Serena) Ltd;84.0;87.0;84.5;85.0;109000
 SCAN;WPP ScanGroup Plc;21.25;24.0;23.75;23.0;400600
 ARM;ARM Cement Ltd;70.0;74.0;72.0;70.5;18500
 BAMB;Bamburi Cement Ltd;210.0;215.0;212.0;215.0;14400
-BERG;Crown Berger Ltd;39.5;39.5;39.5;40.0;200
+CRWN;Crown Berger Ltd;39.5;39.5;39.5;40.0;200
 CABL;East African Cables Ltd;37.5;43.0;40.25;40.0;110300
 PORT;East African Portland Cement Ltd;120.0;120.0;120.0;129.0;1000
 KENO;KenolKobil Ltd;95.0;95.0;95.0;98.5;11700
@@ -30,8 +30,8 @@ KEGN;Kenya Electricity Generating Company Plc;16.35;18.5;17.9;19.15;1245100
 KPLC;Kenya Power and Lighting Ltd;190.0;200.0;194.0;202.0;400300
 TOTL;Total Kenya Ltd;28.0;32.0;29.25;28.25;268400
 JUB;Jubilee Holdings Ltd;216.0;240.0;228.0;235.0;10600
-PAFR;Sanlam Kenya Plc;88.0;90.0;88.5;88.5;3900
-ICDC;Centum Investment Company Ltd;26.0;29.0;26.9;27.15;182100
+SLAM;Sanlam Kenya Plc;88.0;90.0;88.5;88.5;3900
+CTUM;Centum Investment Company Ltd;26.0;29.0;26.9;27.15;182100
 OCH;Olympia Capital Holdings Ltd;20.0;20.0;20.0;19.7;900
 BAT;BAT Kenya Plc;193.0;195.0;194.0;192.0;3900
 EABL;East African Breweries Ltd;138.0;145.0;141.0;143.0;103800

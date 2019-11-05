@@ -7,20 +7,20 @@ EQTY;Equity Group Holdings Ltd;240.0;258.0;247.0;229.0;87200
 HFCK;HF Group Ltd;21.25;22.0;21.95;19.85;24100
 KCB;KCB Group Plc;201.0;215.0;214.0;192.0;72700
 NBK;National Bank of Kenya Ltd;38.25;41.75;40.75;37.5;32400
-NIC;NIC Group Plc;85.0;96.0;91.0;89.25;22600
-CFC;Stanbic Holdings Plc;90.0;113.0;101.0;86.0;43200
-SCBK;Standard Chartered Bank Kenya Ltd;173.0;184.0;178.0;165.0;19000
+NCBA;NCBA Group Plc;85.0;96.0;91.0;89.25;22600
+SBIC;Stanbic Holdings Plc;90.0;113.0;101.0;86.0;43200
+SCBK;Standard Chartered Bank Kenya Ltd;173.0;184.0;178.75;165.0;19000
 EVRD;Eveready East Africa Ltd;8.5;9.3;8.9;8.35;104600
 XPRS;Express Ltd;21.5;25.0;22.75;23.0;41800
 KQ;Kenya Airways Plc;85.5;90.5;89.5;82.5;221900
 NMG;Nation Media Group Plc;220.0;233.0;229.0;209.0;3200
-FIRE;Sameer Africa Plc;13.0;14.25;13.6;12.8;9700
+SMER;Sameer Africa Plc;13.0;14.25;13.6;12.8;9700
 SGL;Standard Group Ltd;50.0;50.0;50.0;48.25;1800
 TPSE;TPS Eastern Africa (Serena) Ltd;84.5;87.0;85.0;84.5;46700
 SCAN;WPP ScanGroup Plc;21.0;24.75;23.75;22.25;202600
 ARM;ARM Cement Ltd;65.0;71.5;69.5;64.5;37700
 BAMB;Bamburi Cement Ltd;190.0;195.0;193.0;180.0;4100
-BERG;Crown Berger Ltd;33.75;35.0;34.25;33.5;7700
+CRWN;Crown Berger Ltd;33.75;35.0;34.25;33.5;7700
 CABL;East African Cables Ltd;37.0;39.0;38.25;35.25;23200
 PORT;East African Portland Cement Ltd;115.0;116.0;115.0;114.0;1100
 KENO;KenolKobil Ltd;100.0;103.0;100.0;98.5;300500
@@ -28,8 +28,8 @@ KEGN;Kenya Electricity Generating Company Plc;16.5;18.5;17.55;16.65;423700
 KPLC;Kenya Power and Lighting Ltd;190.0;203.0;190.0;184.0;734900
 TOTL;Total Kenya Ltd;29.0;30.0;29.75;29.75;110100
 JUB;Jubilee Holdings Ltd;220.0;233.0;229.0;215.0;7100
-PAFR;Sanlam Kenya Plc;81.0;85.0;82.5;81.5;8500
-ICDC;Centum Investment Company Ltd;21.75;21.75;21.75;19.7;268200
+SLAM;Sanlam Kenya Plc;81.0;85.0;82.5;81.5;8500
+CTUM;Centum Investment Company Ltd;21.75;21.75;21.75;19.7;268200
 OCH;Olympia Capital Holdings Ltd;14.0;14.5;14.0;14.45;23100
 BAT;BAT Kenya Plc;180.0;186.0;183.0;174.0;19400
 EABL;East African Breweries Ltd;135.0;142.0;141.0;139.0;1425300

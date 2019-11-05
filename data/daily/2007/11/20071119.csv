@@ -8,20 +8,20 @@ EQTY;Equity Group Holdings Ltd;135.0;139.0;137.0;134.0;333200
 HFCK;HF Group Ltd;33.75;36.5;35.45;33.35;380100
 KCB;KCB Group Plc;26.5;28.0;27.5;27.5;2442900
 NBK;National Bank of Kenya Ltd;38.0;41.0;39.5;38.75;105300
-NIC;NIC Group Plc;152.0;168.0;163.0;165.0;6300
-CFC;Stanbic Holdings Plc;132.0;134.0;133.0;132.0;5500
-SCBK;Standard Chartered Bank Kenya Ltd;191.0;200.0;195.0;193.0;13900
+NCBA;NCBA Group Plc;152.0;168.0;163.0;165.0;6300
+SBIC;Stanbic Holdings Plc;132.0;134.0;133.0;132.0;5500
+SCBK;Standard Chartered Bank Kenya Ltd;191.0;200.0;195.5;193.0;13900
 EVRD;Eveready East Africa Ltd;6.6;7.75;7.15;7.25;37600
 XPRS;Express Ltd;22.5;23.0;22.75;23.5;4900
 KQ;Kenya Airways Plc;65.5;68.0;66.5;66.5;313300
 NMG;Nation Media Group Plc;286.0;296.0;294.0;292.0;8400
-FIRE;Sameer Africa Plc;10.9;11.0;10.95;10.85;4200
+SMER;Sameer Africa Plc;10.9;11.0;10.95;10.85;4200
 SGL;Standard Group Ltd;54.0;54.0;54.0;54.0;100
 TPSE;TPS Eastern Africa (Serena) Ltd;74.0;77.5;75.5;76.0;33700
 SCAN;WPP ScanGroup Plc;26.0;28.0;26.75;27.0;66300
 ARM;ARM Cement Ltd;92.5;95.0;94.0;92.5;31800
 BAMB;Bamburi Cement Ltd;197.0;197.0;197.0;196.0;91200
-BERG;Crown Berger Ltd;43.0;45.5;44.75;43.0;34100
+CRWN;Crown Berger Ltd;43.0;45.5;44.75;43.0;34100
 CABL;East African Cables Ltd;40.0;44.0;42.0;41.0;92300
 PORT;East African Portland Cement Ltd;135.0;135.0;135.0;135.0;100
 KENO;KenolKobil Ltd;112.0;114.0;112.0;112.0;1900
@@ -30,8 +30,8 @@ KPLC;Kenya Power and Lighting Ltd;210.0;216.0;214.0;214.0;17100
 TOTL;Total Kenya Ltd;30.0;30.5;30.25;30.5;6100
 JUB;Jubilee Holdings Ltd;191.0;193.0;192.0;193.0;3100
 KNRE;Kenya Re-Insurance Corporation Ltd;14.0;15.4;15.15;15.2;323200
-PAFR;Sanlam Kenya Plc;88.0;90.0;88.5;95.0;1600
-ICDC;Centum Investment Company Ltd;26.25;28.0;27.0;26.9;238500
+SLAM;Sanlam Kenya Plc;88.0;90.0;88.5;95.0;1600
+CTUM;Centum Investment Company Ltd;26.25;28.0;27.0;26.9;238500
 OCH;Olympia Capital Holdings Ltd;14.4;14.95;14.5;14.5;25900
 BAT;BAT Kenya Plc;136.0;140.0;137.0;139.0;15100
 EABL;East African Breweries Ltd;150.0;155.0;153.0;152.0;136600

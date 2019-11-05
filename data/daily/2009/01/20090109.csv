@@ -9,20 +9,20 @@ EQTY;Equity Group Holdings Ltd;167.0;172.0;170.0;167.0;32800
 HFCK;HF Group Ltd;17.05;17.5;17.25;17.25;29900
 KCB;KCB Group Plc;23.25;24.0;23.25;23.25;1760400
 NBK;National Bank of Kenya Ltd;43.0;44.0;43.0;43.0;9300
-NIC;NIC Group Plc;45.0;48.0;46.3;46.95;79500
-CFC;Stanbic Holdings Plc;58.0;59.0;58.5;59.0;31000
-SCBK;Standard Chartered Bank Kenya Ltd;164.0;166.0;164.0;164.0;5400
+NCBA;NCBA Group Plc;45.0;48.0;46.3;46.95;79500
+SBIC;Stanbic Holdings Plc;58.0;59.0;58.5;59.0;31000
+SCBK;Standard Chartered Bank Kenya Ltd;164.0;166.0;164.75;164.5;5400
 EVRD;Eveready East Africa Ltd;3.15;3.7;3.45;3.45;23800
 XPRS;Express Ltd;13.5;13.5;13.5;13.45;3500
 KQ;Kenya Airways Plc;27.5;29.0;28.0;29.0;63500
 NMG;Nation Media Group Plc;142.0;145.0;143.0;144.0;23900
-FIRE;Sameer Africa Plc;5.9;6.45;6.05;5.9;5800
+SMER;Sameer Africa Plc;5.9;6.45;6.05;5.9;5800
 SGL;Standard Group Ltd;50.0;50.0;50.0;50.0;600
 TPSE;TPS Eastern Africa (Serena) Ltd;53.0;53.0;53.0;53.0;100
 SCAN;WPP ScanGroup Plc;25.0;27.0;25.25;26.0;14400
 ARM;ARM Cement Ltd;90.0;91.5;91.0;91.5;114300
 BAMB;Bamburi Cement Ltd;160.0;160.0;160.0;162.0;32800
-BERG;Crown Berger Ltd;24.5;25.0;24.75;24.5;1300
+CRWN;Crown Berger Ltd;24.5;25.0;24.75;24.5;1300
 CABL;East African Cables Ltd;26.5;29.25;27.75;27.75;1700
 KENO;KenolKobil Ltd;63.0;65.5;63.0;65.5;10000
 KEGN;Kenya Electricity Generating Company Plc;15.8;16.5;16.45;16.35;2331800
@@ -30,8 +30,8 @@ KPLC;Kenya Power and Lighting Ltd;135.0;140.0;137.0;138.0;2300
 TOTL;Total Kenya Ltd;32.5;32.75;32.5;32.0;10400
 JUB;Jubilee Holdings Ltd;124.0;124.0;124.0;124.0;3600
 KNRE;Kenya Re-Insurance Corporation Ltd;12.4;12.75;12.55;12.75;649500
-PAFR;Sanlam Kenya Plc;58.0;58.0;58.0;62.0;100
-ICDC;Centum Investment Company Ltd;16.0;17.0;16.75;17.2;28200
+SLAM;Sanlam Kenya Plc;58.0;58.0;58.0;62.0;100
+CTUM;Centum Investment Company Ltd;16.0;17.0;16.75;17.2;28200
 OCH;Olympia Capital Holdings Ltd;10.5;11.0;10.95;10.5;2400
 BAT;BAT Kenya Plc;133.0;135.0;133.0;131.0;4700
 EABL;East African Breweries Ltd;143.0;146.0;143.0;146.0;273700

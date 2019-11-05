@@ -8,20 +8,20 @@ EQTY;Equity Group Holdings Ltd;155.0;157.0;155.0;155.0;35400
 HFCK;HF Group Ltd;37.0;38.0;37.25;36.9;36500
 KCB;KCB Group Plc;25.75;26.5;26.0;26.0;735100
 NBK;National Bank of Kenya Ltd;42.0;42.5;42.0;41.75;17800
-NIC;NIC Group Plc;51.5;52.5;52.25;52.75;214900
-CFC;Stanbic Holdings Plc;100.0;110.0;109.0;110.0;59300
-SCBK;Standard Chartered Bank Kenya Ltd;200.0;204.0;203.0;201.0;23200
+NCBA;NCBA Group Plc;51.5;52.5;52.25;52.75;214900
+SBIC;Stanbic Holdings Plc;100.0;110.0;109.0;110.0;59300
+SCBK;Standard Chartered Bank Kenya Ltd;200.0;204.0;203.25;201.5;23200
 EVRD;Eveready East Africa Ltd;6.6;6.95;6.75;6.6;32700
 XPRS;Express Ltd;20.0;21.0;20.25;20.5;4600
 KQ;Kenya Airways Plc;52.0;53.0;52.5;52.0;63700
 NMG;Nation Media Group Plc;310.0;321.0;319.0;320.0;91200
-FIRE;Sameer Africa Plc;10.2;11.0;10.65;10.65;118900
+SMER;Sameer Africa Plc;10.2;11.0;10.65;10.65;118900
 SGL;Standard Group Ltd;50.0;50.0;50.0;50.5;1200
 TPSE;TPS Eastern Africa (Serena) Ltd;69.5;70.0;69.5;69.0;18900
 SCAN;WPP ScanGroup Plc;28.0;29.0;28.25;27.75;71800
 ARM;ARM Cement Ltd;91.0;93.0;91.5;91.0;25500
 BAMB;Bamburi Cement Ltd;184.0;186.0;184.0;186.0;300
-BERG;Crown Berger Ltd;41.0;43.5;43.25;40.5;17800
+CRWN;Crown Berger Ltd;41.0;43.5;43.25;40.5;17800
 CABL;East African Cables Ltd;38.0;38.75;38.0;37.75;11800
 PORT;East African Portland Cement Ltd;115.0;115.0;115.0;125.0;23000
 KENO;KenolKobil Ltd;91.0;91.0;91.0;90.0;1000
@@ -29,8 +29,8 @@ KEGN;Kenya Electricity Generating Company Plc;23.0;24.0;23.5;23.75;398700
 KPLC;Kenya Power and Lighting Ltd;195.0;202.0;200.0;199.0;140100
 TOTL;Total Kenya Ltd;30.5;31.0;30.75;30.75;16800
 KNRE;Kenya Re-Insurance Corporation Ltd;13.9;14.6;14.05;14.0;538700
-PAFR;Sanlam Kenya Plc;78.5;79.0;78.5;79.0;5400
-ICDC;Centum Investment Company Ltd;24.5;25.25;24.8;25.0;731000
+SLAM;Sanlam Kenya Plc;78.5;79.0;78.5;79.0;5400
+CTUM;Centum Investment Company Ltd;24.5;25.25;24.8;25.0;731000
 OCH;Olympia Capital Holdings Ltd;13.5;13.5;13.5;13.25;100
 BAT;BAT Kenya Plc;157.0;160.0;158.0;156.0;19500
 EABL;East African Breweries Ltd;156.0;157.0;156.0;155.0;5200

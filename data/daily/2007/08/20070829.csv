@@ -7,20 +7,20 @@ EQTY;Equity Group Holdings Ltd;127.0;131.0;128.0;130.0;255900
 HFCK;HF Group Ltd;32.0;35.0;33.0;33.9;41400
 KCB;KCB Group Plc;26.5;28.0;27.0;26.25;585700
 NBK;National Bank of Kenya Ltd;46.0;47.0;46.5;46.75;23600
-NIC;NIC Group Plc;156.0;170.0;160.25;160.0;262500
-CFC;Stanbic Holdings Plc;128.0;135.0;130.0;129.0;16900
-SCBK;Standard Chartered Bank Kenya Ltd;188.0;200.0;195.0;189.0;35700
+NCBA;NCBA Group Plc;156.0;170.0;160.25;160.0;262500
+SBIC;Stanbic Holdings Plc;128.0;135.0;130.0;129.0;16900
+SCBK;Standard Chartered Bank Kenya Ltd;188.0;200.0;195.0;189.75;35700
 EVRD;Eveready East Africa Ltd;8.0;8.25;8.1;8.25;63700
 XPRS;Express Ltd;25.0;25.5;25.25;25.5;16900
 KQ;Kenya Airways Plc;70.0;72.0;71.0;71.0;271800
 NMG;Nation Media Group Plc;252.0;264.0;254.0;256.0;6400
-FIRE;Sameer Africa Plc;12.5;13.0;12.9;12.85;4300
+SMER;Sameer Africa Plc;12.5;13.0;12.9;12.85;4300
 SGL;Standard Group Ltd;55.0;58.0;56.5;56.0;1300
 TPSE;TPS Eastern Africa (Serena) Ltd;81.5;83.5;82.5;82.0;12400
 SCAN;WPP ScanGroup Plc;25.5;27.0;26.25;26.5;37300
 ARM;ARM Cement Ltd;94.0;96.0;95.0;94.5;189200
 BAMB;Bamburi Cement Ltd;200.0;205.0;204.0;200.0;10100
-BERG;Crown Berger Ltd;46.5;47.0;46.5;46.5;1600
+CRWN;Crown Berger Ltd;46.5;47.0;46.5;46.5;1600
 CABL;East African Cables Ltd;47.0;50.0;48.25;47.25;92400
 KENO;KenolKobil Ltd;100.0;106.0;100.0;105.0;250100
 KEGN;Kenya Electricity Generating Company Plc;30.5;32.0;30.75;30.75;1248900
@@ -28,8 +28,8 @@ KPLC;Kenya Power and Lighting Ltd;230.0;237.0;232.0;223.0;32300
 TOTL;Total Kenya Ltd;31.25;31.25;31.25;31.25;2000
 JUB;Jubilee Holdings Ltd;216.0;238.0;230.0;217.0;39100
 KNRE;Kenya Re-Insurance Corporation Ltd;14.0;15.0;14.25;14.6;14134600
-PAFR;Sanlam Kenya Plc;100.0;100.0;100.0;99.5;1900
-ICDC;Centum Investment Company Ltd;29.75;31.5;30.7;30.25;345200
+SLAM;Sanlam Kenya Plc;100.0;100.0;100.0;99.5;1900
+CTUM;Centum Investment Company Ltd;29.75;31.5;30.7;30.25;345200
 OCH;Olympia Capital Holdings Ltd;19.95;19.95;19.95;20.0;1000
 BAT;BAT Kenya Plc;160.0;164.0;161.0;162.0;21200
 EABL;East African Breweries Ltd;152.0;157.0;156.0;155.0;135800

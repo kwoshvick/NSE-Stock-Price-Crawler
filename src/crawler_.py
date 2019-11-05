@@ -55,17 +55,17 @@ class Crawler:
                 # name
                 shareDetails.append(shareElements[1])
                 # lowest price
-                if shareElements[5] == None:
+                if shareElements[5] == None or shareElements[5] == '-':
                     shareDetails.append(shareElements[5])
                 else:
                     shareDetails.append(float(shareElements[5].replace(',', '')))
                 # highest price
-                if shareElements[6] == None:
+                if shareElements[6] == None or shareElements[6] == '-':
                     shareDetails.append(shareElements[6])
                 else:
                     shareDetails.append(float(shareElements[6].replace(',', '')))
                 # price
-                if shareElements[7] == None:
+                if shareElements[7] == None or shareElements[7] == '-':
                     shareDetails.append(shareElements[7])
                 else:
                     shareDetails.append(float(shareElements[7].replace(',', '')))
