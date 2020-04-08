@@ -39,18 +39,22 @@ class FormatData:
     def monthlyCSV(self, dailyPath, fileName, finalPath):
         with open(dailyPath, newline='') as csvfile:
             spamreader = csv.reader(csvfile, delimiter=';', quotechar='|')
+            next(spamreader, None)
             for row in spamreader:
                 date = fileName.strip('.csv')
                 # append date to be the first element
                 row.insert(0, date)
-                file = open(finalPath + str(row[1]) + '.csv', 'a')
-                writeFile = csv.writer(file, delimiter=';')
+                file = finalPath + str(row[1]) + '.csv'
+                # if files does exist add header
+                self.add_header(file)
+                file_append_data = open(file, 'a')
+                writeFile = csv.writer(file_append_data, delimiter=';')
                 # removes the code
                 del row[1]
                 # removes the company name
                 del row[1]
                 writeFile.writerows([row])
-                file.close()
+                file_append_data.close()
 
     # extract from monthly csv
     def getYearlyData(self, inputPath, outputPath):
@@ -70,11 +74,15 @@ class FormatData:
     def YearlyCSV(self, monthlyCSVPath, csvName, outputPath):
         with open(monthlyCSVPath, newline='') as csvfile:
             spamreader = csv.reader(csvfile, delimiter=';', quotechar='|')
+            next(spamreader, None)
             for row in spamreader:
-                file = open(outputPath + str(csvName), 'a')
-                writeFile = csv.writer(file, delimiter=',')
+                file = outputPath + str(csvName)
+                # if files does exist add header
+                self.add_header(file)
+                file_append_data = open(file, 'a')
+                writeFile = csv.writer(file_append_data, delimiter=',')
                 writeFile.writerows([row])
-                file.close()
+                file_append_data.close()
 
     # extract from yearly csv
     def getCompanyData(self, inputPath, outputPath):
@@ -90,8 +98,22 @@ class FormatData:
     def companyCSV(self, yearlyCSVPath, csvName, outputPath):
         with open(yearlyCSVPath, newline='') as csvfile:
             spamreader = csv.reader(csvfile, delimiter=';', quotechar='|')
+            next(spamreader, None)
             for row in spamreader:
-                file = open(outputPath + str(csvName), 'a')
-                writeFile = csv.writer(file, delimiter=';')
+                file = outputPath + str(csvName)
+                # if files does exist add header
+                self.add_header(file)
+                file_append_data = open(file, 'a')
+                writeFile = csv.writer(file_append_data, delimiter=';')
                 writeFile.writerows([row])
-                file.close()
+                file_append_data.close()
+
+
+    def add_header(self,file):
+        # if files does exist add header
+        if not os.path.isfile(file):
+            file_header = open(file, 'a')
+            writeFile = csv.writer(file_header, delimiter=';')
+            writeFile.writerow(['Date', 'Lowest Price of the Day', 'Highest Price of the Day',
+                                'Closing Price', 'Previous Day Closing Price', 'Volume Traded'])
+            file_header.close()
