@@ -13,11 +13,13 @@ startMonth = 11
 # end year
 endYear = 2020
 # end month
-endMonth = 3
+endMonth = 4
 
-
+print("Preparing Daily Data")
 while startYear < (endYear+1):
+    print("Year",startYear)
     while startMonth < 13:
+        print("Month:",startMonth)
         month = calender.getDayInMonth(startYear, startMonth)
         for day in month:
             crawler.getURLData(int(day))
@@ -39,12 +41,15 @@ pathMonthly = 'data/monthly/'
 pathCompany = 'data/company/'
 
 # create monthly data
+print("Preparing Monthly Data")
 formatter.getMonthlyData(pathDaily, pathMonthly)
 
 # create yearly data
+print("Preparing Yearly Data")
 formatter.getYearlyData(pathMonthly, pathYearly)
 
 # create company data
+print("Preparing Company Data")
 formatter.getCompanyData(pathYearly, pathCompany)
 
 
