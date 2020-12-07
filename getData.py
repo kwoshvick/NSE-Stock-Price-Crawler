@@ -9,11 +9,11 @@ formatter = FormatData()
 # start year
 startYear = 2020
 # start month
-startMonth = 9
+startMonth = 10
 # end year
 endYear = 2020
 # end month
-endMonth = 9
+endMonth = 11
 
 print("Preparing Daily Data")
 while startYear < (endYear+1):

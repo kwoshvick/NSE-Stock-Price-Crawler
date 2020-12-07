@@ -1,7 +1,7 @@
 
 # NSE Stock Price Crawler
 
-This is a web crawler for Nairobi Security Exchange **(NSE)** Share prices since its digitization on 11<sup>th</sup> September 2006 to 30<sup>th</sup> October 2020.
+This is a web crawler for Nairobi Security Exchange **(NSE)** Share prices since its digitization on 11<sup>th</sup> September 2006 to 30<sup>th</sup> November 2020.
 The data crawled can be found in the `data` folder.
 
 **Setup**
