@@ -9,11 +9,11 @@ formatter = FormatData()
 # start year
 startYear = 2021
 # start month
-startMonth = 4
+startMonth = 8
 # end year
 endYear = 2021
 # end month
-endMonth = 7
+endMonth = 8
 
 print("Preparing Daily Data")
 while startYear < (endYear+1):
@@ -51,6 +51,8 @@ formatter.getYearlyData(pathMonthly, pathYearly)
 # create company data
 print("Preparing Company Data")
 formatter.getCompanyData(pathYearly, pathCompany)
+
+print("Process Completed !!")
 
 
 
