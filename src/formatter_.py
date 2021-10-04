@@ -10,7 +10,7 @@ class FormatData:
 
     # returns the years,months, days and csv in the folder.
     # It depends on when its being referenced.
-    def getDataInFolder(self,path):
+    def getDataInFolder(self, path):
         dataFolder = list()
         for data in os.listdir(path):
             dataFolder.append(data)
@@ -18,22 +18,22 @@ class FormatData:
         return sortedDataFolder
 
     # extract from daily csv
-    def getMonthlyData(self,inputPath,outputPath):
-        #return years in folder
+    def getMonthlyData(self, inputPath, outputPath):
+        # return years in folder
         years = self.getDataInFolder(inputPath)
         for year in years:
             self.crawler.createFolder(outputPath + str(year))
-            yearlyPath = inputPath+str(year)+'/'
+            yearlyPath = inputPath + str(year) + '/'
             # returns months in a folder
             months = self.getDataInFolder(yearlyPath)
             for month in months:
-                self.crawler.createFolder(outputPath + str(year)+'/'+str(month))
-                monthlyPath = yearlyPath+str(month)+'/'
+                self.crawler.createFolder(outputPath + str(year) + '/' + str(month))
+                monthlyPath = yearlyPath + str(month) + '/'
                 # returns days in a folder
                 days = self.getDataInFolder(monthlyPath)
                 for day in days:
-                    dailyCsvPath = monthlyPath+str(day)
-                    self.monthlyCSV(dailyCsvPath, day,outputPath + str(year)+'/'+str(month)+'/')
+                    dailyCsvPath = monthlyPath + str(day)
+                    self.monthlyCSV(dailyCsvPath, day, outputPath + str(year) + '/' + str(month) + '/')
 
     # saves the data in the monthly csv file
     def monthlyCSV(self, dailyPath, fileName, finalPath):
@@ -108,8 +108,7 @@ class FormatData:
                 writeFile.writerows([row])
                 file_append_data.close()
 
-
-    def add_header(self,file):
+    def add_header(self, file):
         # if files does exist add header
         if not os.path.isfile(file):
             file_header = open(file, 'a')
