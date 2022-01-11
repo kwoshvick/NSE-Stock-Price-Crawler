@@ -13,7 +13,7 @@ startMonth = 9
 # end year
 endYear = 2021
 # end month
-endMonth = 9
+endMonth = 12
 
 print("Preparing Daily Data")
 while startYear < (endYear+1):
