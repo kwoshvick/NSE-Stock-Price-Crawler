@@ -7,13 +7,13 @@ calender = Calender()
 formatter = FormatData()
 
 # start year
-startYear = 2021
+startYear = 2022
 # start month
-startMonth = 9
+startMonth = 1
 # end year
-endYear = 2021
+endYear = 2022
 # end month
-endMonth = 12
+endMonth = 4
 
 print("Preparing Daily Data")
 while startYear < (endYear+1):
